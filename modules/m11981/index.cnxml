@@ -1,0 +1,42 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Tommaso Caccini</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>378571ca-4e3e-4b88-9b78-ce0b2815800d</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">Cosimo Caccini was born in <link document="m11936">Florence</link>  and chose the religious life before he had turned fifteen. Caccini chose the <term target-id="domi">Dominican order</term> and entered the monastery of San Marco. Here, a century earlier, Savanarola had been the prior, and the legacy of this monk's fiery sermons lived on. Caccini soon showed that he had a talent for preaching, and soon after his novitiate he was already preaching Lenten sermons in the church of Santa Maria Novella. As his reputation spread, he was invited by churches in other cities to perform the same office. Caccini was, however, a pale echo of Savanarola: his fanaticism was never divorced from personal ambition for advancement within the Dominican order. By his choice of the name Tommaso, he served notice that he wished to become the new Thomas Aquinas, the order's (and the Church's) greatest theologian. In fact, his published works were derivative and third-rate. For his inflammatory sermons he was disciplined by the Archbishop of Bologna as a scandal-maker.</para> 
+    <para id="para2"> Shortly after Galileo's arrival in Florence, Caccini fell in with the so-called "Pigeon League," named after Lodovico delle Colombe,<footnote id="idm1621792">colombo = pigeon</footnote> an arch-enemy of Galileo. The group included his fellow Dominican Niccolo Lorini and the Archbishop of Florence. Lorini was the first to attack Galileo from the pulpit, toward the end of 1612, but in the face of an uproar among the friends of Galileo quickly wrote a letter of apology. Caccini's attack was more damaging. Because of the influence of his brother Matteo, Caccini had been prior of the Dominican monastery in Cortona in 1611, where he had been unsuccessful in obtaining the patronage of Cardinal Maffeo Barberini, and he now had further aspirations in Rome. He was in possession of a copy of Galileo's letter to <link document="m11957">Benedetto Castelli</link> (which Galileo later expanded into the "Letter to the Grand Duchess Christina") showing how the <link document="m11938">Copernican system</link> could be reconciled with the passage in the book of <cite><cite-title>Joshua</cite-title></cite>. Here was Caccini's chance. On the fourth Sunday of Advent (20 December 1614), he preached a sermon on <cite><cite-title>Joshua</cite-title></cite> in Santa Maria Novella in Florence, attacking Galileo and for his Copernican views. He reputedly ended his sermon with a passage from chapter 1, verse 11 of <cite><cite-title>The Acts of the Apostles</cite-title></cite>, "Viri galilaei, quid statis adspicientes in caelum?" which is rendered in the King James translation as "Ye men of Galilee, why stand ye gazing up into heaven?" an obvious reference to Galileo and his followers.</para> 
+    <para id="para3"> Caccini got his wish. He became Master and Bachelor of the convent of Santa Maria sopra Minerva in Rome, and the wheels were set in motion that resulted, eighteen months later, in the condemnation of the Copernican theory. Lorini forwarded a mangled copy of Galileo's letter to Castelli to Rome, and Galileo then sent the correct original version to Rome as well. In March 1615 Caccini appeared on his own initiative before the <link document="m11944">Inquisition</link> and gave depositions about Galileo and his views. In November, two other clerics mentioned in Caccini's deposition were examined in Florence. These depositions show how ignorant these men were, in fact, about Galileo's views. After reviewing the matter, the Holy Office decided not to take any actions other than having Galileo's letters on sunspots examined by its theological consultants. Their report, in February 1616, made the proposition of a stationary and central Sun formally heretical and the proposition of a non-central moving Earth "at least erroneous in faith."</para> 
+    <para id="para4"> From correspondence, it appears that Caccini kept working against Galileo behind the scenes, but apparently to no particular effect. His career, however, did progress. He became confessor to the nuns of the convent of Orsina, and then penitentiary at Santa Maria Maggiore in Rome. He was confined for some time in Viterbo, after which, through the help of his brothers, he was allowed to return to <link document="m11936">Florence</link> where he became a high theologian of the Dominican order. As prior of the famous monastery of San Marco, he was active behind the scene in the events leading up to Galileo's trial in 1633. Caccini died in Florence in 1648.</para> 
+
+  </content>
+
+  <glossary>
+    <definition id="domi">
+      <term>Dominican Order</term>
+      <meaning id="idm578272">- The popular name for the Order of Friars Preachers. The order was founded by Domingo de Guzman (known as Dominic) between 1215 and 1221. Like the Franciscans, the Dominicans were mendicant friars.</meaning>
+    </definition>
+  </glossary>
+  
+  <bib:file>
+    <bib:entry id="fin">
+      <bib:book>
+	<bib:author>Finocchiaro, Maurice A.</bib:author>
+	<bib:title>The Galileo Affair</bib:title>
+	<bib:publisher>University of California Press</bib:publisher>
+	<bib:year>1989</bib:year>
+	<bib:address>Berkeley and Los Angeles</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="san">
+      <bib:book>
+	<bib:author>Santillana, Giorgio de</bib:author>
+	<bib:title>The Crime of Galileo</bib:title>
+	<bib:publisher>University of Chicago Press</bib:publisher>
+	<bib:year>1955</bib:year>
+	<bib:address>Chicago</bib:address>
+      </bib:book>
+    </bib:entry>
+  </bib:file>
+
+</document>

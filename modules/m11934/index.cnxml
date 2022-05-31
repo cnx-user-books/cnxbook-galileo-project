@@ -1,0 +1,89 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Vincenzo Galileo</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c6774fe1-1a4e-4787-bad2-3a8420b40ee4</md:uuid>
+</metadata>
+  <content>
+    <para id="para1">
+        
+      Vincenzo Galilei was born in <link document="m11936">Florence</link>. He made his living as a
+      lutenist, composer, theorist, singer, and teacher. Around 1560
+      he settled in Pisa, where Galileo Galilei was born in 1564, the
+      oldest of six or seven children. During this period Galilei also
+      studied for some time in Venice under the theorist Gioseffo
+      Zarlino, with whom he later had a dispute about music theory. In
+      the early 1570s Galilei and his family settled in Florence. His
+      prowess as a musician and theorist attracted a number of
+      powerful patrons, and he often spent time at their
+      residences. e.g., in 1578-79 with Duke Albrecht of Bavaria in
+      Munich.
+    </para>
+    <para id="para2">
+       Vincenzo Galilei published a number of books of musical scores
+       for the lute and several books on musical theory. What is
+       important about Galilei for our purposes is that he combined
+       the practice and theory of music. Since antiquity, the theory
+       of music had consisted of a mathematical discussion of harmony,
+       in other words what are the mathematical ratios of the lengths
+       of strings producing consonances, and how does one divide the
+       octave? It had always been thought that not only was the ratio
+       of lengths of two strings sounding an octave 2:1, but that so
+       also was the ratio of the tensions of strings of equal lengths
+       tuned an octave apart. Galilei showed that this is not the
+       case: the ratio of tensions is 4:1. He found that ratio by
+       hanging weights from strings. Here was an experiment that
+       produced numbers and bore directly on the age-old theoretical
+       discussions.
+    </para>
+    <para id="para3">
+       Stillman Drake argued that Galilei performed these experiments
+       in 1588, when his son Galileo was living at home and giving
+       private lessons in mathematics. The implication here is that
+       young Galileo actually helped in the experiments. Be that as it
+       may, Galileo received from his Florentine environment in
+       general and from his father in particular the tendency to
+       combine practical considerations with theory and to try to
+       answer theoretical questions by experiment.
+    </para>
+  </content>
+  <bib:file>
+		<bib:entry id="entry1">
+			<bib:article>
+				<bib:author>Claude V. Palisco</bib:author>
+				<bib:title>Biography of Vicenzo Galilei</bib:title>
+				<bib:journal>The New Grove Dictionary of Music and Musicians</bib:journal>
+				<bib:year>1995</bib:year>
+				<bib:volume>VII</bib:volume>
+				<bib:pages>96-98</bib:pages>
+			</bib:article>
+		</bib:entry>
+		<bib:entry id="entry2">
+			<bib:proceedings>
+				<bib:title>Music and Science in the Age of Galileo</bib:title>
+				<bib:year>1992</bib:year>
+				<bib:publisher>Kluwer Academic Publishers</bib:publisher>
+			</bib:proceedings>
+		</bib:entry>
+		<bib:entry id="entry3">
+			<bib:article>
+				<bib:author>Stillman Drake</bib:author>
+				<bib:title>Renaissance Music and Experimental Science</bib:title>
+				<bib:journal>Journal for the History of Ideas</bib:journal>
+				
+				<bib:year>1970</bib:year>
+				<bib:volume>31</bib:volume>
+				<bib:pages>483-500</bib:pages>
+				
+			</bib:article>
+		</bib:entry>
+		<bib:entry id="entry4">
+			<bib:article>
+				<bib:author>Stillman Drake</bib:author>
+				<bib:title>The Role of Music in Galileo's Experiments</bib:title>
+				<bib:journal>Scientific American </bib:journal>
+				<bib:year>1975</bib:year>
+				<bib:volume>232</bib:volume>
+				<bib:pages>98-104</bib:pages>
+			</bib:article>
+		</bib:entry>
+	</bib:file>
+</document>

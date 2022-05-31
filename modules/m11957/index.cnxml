@@ -1,0 +1,90 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Benedetto Castelli</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>70bb0e5a-217c-4618-862c-15a17dcb1159</md:uuid>
+</metadata>
+
+  <content>
+
+    <figure id="cast">
+      
+      <media id="idm9309776" alt=""><image src="../../media/castelli.gif" mime-type="image/gif"/></media>
+      <caption>Benedetto Castelli </caption>
+    </figure>
+	
+    <para id="para1"> Antonio Castelli was born in Brescia, Italy, in 1578 and took the name Benedetto upon entering the <term target-id="bene">Benedictine order</term> in 1595. From perhaps 1604 to 1607 he lived in a monastery in Padua and studied under Galileo. Upon receiving a copy of <cite><cite-title>Sidereus Nuncius</cite-title></cite>, in Brescia in 1610, he applied for a transfer to <link document="m11936">Florence</link>, where he arrived in 1611. Castelli helped see Galileo's <cite><cite-title>Discourse on Floating Bodies</cite-title></cite> through the press and published the reply (largely written by Galileo) to the polemics against it. Castelli was also active in the initial stages of Galileo's <link document="m11970">sunspot</link> research in 1612, coming up with the method of projecting the Sun's image through the telescope. </para>   
+    <para id="para2">Upon Galileo's recommendation, Castelli was appointed professor of mathematics at the university of Pisa in 1613. When the court was visiting Pisa, late that year, Castelli was invited to dinner and became involved in a lengthy after-dinner discussion about the merits of the <link document="m11938">Copernican System</link>. Castelli presented Galileo's arguments about reconciling the Copernican theory with certain biblical passages, e.g. in the book of Joshua. It was this occasion that prompted Galileo to write a long letter to Castelli on the subject of science and religion, which was later expanded into the <cite><cite-title>Letter to the Grand Duchess Christina</cite-title></cite>. Both versions of the letter circulated in manuscript, and the Letter to the Grand Duchess was printed in Strasbourg in 1636.  </para>
+    <para id="para3"> Castelli moved to Rome in 1626 to become a consultant to the Pope on the management of rivers in the Papal States (a perennial problem) and professor of mathematics at the university of Rome. In 1628 he published the important work on hydraulics, <cite><cite-title>Della Misura dell'Acque Correnti</cite-title></cite>, or "On the Measurement of Running Waters," a book that may be considered the foundation of modern hydrodynamics. Castelli also made important discoveries about illumination (independently formulating the photometric law), vision, after-images, and diaphragms in telescopes. He was also a pioneer in the study of differential absorption of heat by different colors. To the end, he was a faithful friend of Galileo.  </para>
+
+  </content>
+
+  <glossary>
+    <definition id="bene">
+      <term>Benedictine Order</term>
+      <meaning id="idm2832640">- The Order of Saint Benedict is a confederation of congegations of monks and nuns, not a centralized religious order. Each monastary is an autonomous community following the rule of Benedict of Nursia.</meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="ariott">
+      <bib:article>
+	<bib:author>Ariotti, Pietro E</bib:author>
+	<bib:title> "A Little Known early 17th-Century Treatise on Vision: Benedetto Castelli's Discorso sopra la Vista (1639, 1669): Translation and Critical Comments [by] Piero E. Ariotti."</bib:title>
+	<bib:journal> Annals of Science</bib:journal>
+	<bib:year>1973</bib:year>
+	<bib:volume>30</bib:volume>
+	<bib:pages> 1-30</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="ari">
+      <bib:article>
+	<bib:author>Ariotti, Pietro E</bib:author>
+	<bib:title>"Benedetto Castelli and George Berkeley as Anticipators of recent Findings on the Moon Illusion"</bib:title>
+	<bib:journal>Journal of the History of Behavioral Sciences</bib:journal>
+	<bib:year>1973</bib:year>																																     
+	<bib:volume>9</bib:volume>
+	<bib:pages> 328-332</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="ariotti">
+      <bib:article>
+	<bib:author>Ariotti, Pietro E</bib:author>
+	<bib:title> "Benedetto Castelli's Discourse on the Loadstone (1639-1640): The Origin of the Notion of Elementary Magnets Similarly Aligned"</bib:title>
+	<bib:journal> Annals of Science</bib:journal>
+	<bib:year>1981</bib:year>
+	<bib:volume>38</bib:volume>
+	<bib:pages> 125-140</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="ario">
+      <bib:article>
+	<bib:author>Ariotti, Pietro E</bib:author>
+	<bib:title>"Benedetto Castelli: Early Systematic Experiments and Theory of the Differential Absorption of Heatby Colors"</bib:title>
+	<bib:journal>Isis</bib:journal>
+	<bib:year>1972</bib:year>
+	<bib:volume>63</bib:volume>
+	<bib:pages> 79-87</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="ariot">
+      <bib:article>
+	<bib:author>Ariotti, Pietro E</bib:author>
+	<bib:title>"On the Apparent Size of the Projected After-Image: Emmert's or Castelli's Law? A Case of 242 Years Anticipation"</bib:title>
+	<bib:journal>Journal of the History of Behavioral Sciences</bib:journal>
+	<bib:year>1973</bib:year>
+	<bib:volume>9</bib:volume>
+	<bib:pages> 18-28</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="drake">
+      <bib:article>
+	<bib:author>Drake, Stillman</bib:author>
+	<bib:title>"Castelli, Benedetto"</bib:title>
+	<bib:journal>Dictionary of Scientific Biography</bib:journal>
+	<bib:year/>
+	<bib:volume>III</bib:volume>
+	<bib:pages> 115-117</bib:pages>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+  
+</document>

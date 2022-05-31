@@ -1,0 +1,113 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Comets</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>eb9d4093-7f4e-496c-8d2b-cc82ffc25430</md:uuid>
+</metadata>
+
+  <content>
+
+    <figure id="fig1">
+      
+      <media id="idm1001616" alt=""><image src="../../media/comet_1965_ikeya_seki.gif" mime-type="image/gif"/></media>
+      <caption>Comet Ikeya-Seki</caption>
+    </figure>
+
+    <para id="para1">Comets played an important role in the revolution of astronomy and cosmology that occurred between 1500 and 1700. In the earlier Aristotelian geocentric cosmological scheme, the universe was divided into two regions with very different characteristics. The heavens, which reached from the sphere of the Moon to that of the fixed stars, were perfect and unchanging; motion there was exclusively circular. Below the Moon was the world of corruption and change. The Earth was the center of the universe, the natural place of all heavy bodies (bodies in which the element earth predominated). Around it were arranged in successive spherical shells the elements of water, air, and fire. The sphere of fire reached up to the sphere of the Moon, the first heavenly sphere. Although there are references in Aristotle that some of the imperfection of the sublunary region may have rubbed off on the Moon, basically the divide between the heavenly and sublunary regions was absolute.  </para> 
+    <para id="para2"> If the heavens were perfect and unchanging, then no change could occur in them. Any phenomenon that involved change was, therefore, by definition a sublunary one. Whereas heavenly bodies moved around the Earth in never ending circles, repeating their patterns over and over, comets came and went. They appeared suddenly, moved across the constellations for a brief period of time, and then disappeared. There was no regularity, no pattern to their appearances and motions. They were therefore considered changing appearances and therefore by definition their location was "below" the Moon. (It is to be noted here that this is true only in western cosmology after Aristotle. In the cosmologies of other cultures, comets were defined differently.) </para> 
+    <para id="para3"> The Aristotelian cosmology was dominant in the Islamic world and in Christian Europe. We find no coherent record of comets in the astronomical annals of these cultures (as we do, for instance in China). Comets were, of course, observed, and they are mentioned in chronicles and other non-astronomical documents. They were considered omens, bad omens, and since there was always a major disaster (plague, war, flood, fire, etc.) that happened shortly after a comet had been seen, there was no easy way to prove this notion wrong.  </para> 
+
+    <figure id="fig2">
+      <media id="idm611376" alt=""><image src="../../media/comets_toscanelli-t.gif" mime-type="image/gif"/></media>
+      <caption><link resource="comets_toscanelli-l.gif">Comet of 1449-50 observed by Toscanelli</link></caption>
+    </figure>
+
+    <para id="para4"> The first recorded efforts to study the paths of comets across the heavens as an astronomical exercise occurred in <link document="m11936">Florence</link> in the fifteenth century, about a century before the birth of Galileo. By the early sixteenth century, astronomers were observing and measuring the positions of all comets, and in the 1530s Peter Apian in Germany discovered that the tail of a comet always points away from the Sun. His discovery was illustrated in a tract written in German, meant for popular consumption. Among the philosophers (and cosmology was a part of philosophy) there was as yet no doubt that comets were sublunary phenomena.  </para> 
+
+    <figure id="fig3">
+      
+      <media id="idp1465456" alt=""><image src="../../media/comet_1532_apian-t.gif" mime-type="image/gif"/></media>
+      <caption> <link resource="comet_1532_apian-l.gif">Comet of 1532 observed by Apian </link></caption>
+    </figure>
+
+    <para id="para5"> But practicing astronomers, that is those who observed the positions of heavenly bodies and calculated their positions, increasingly began to measure the positions of comets. If they were below the Moon, then their <term target-id="para">parallax</term> could be no less than the Moon's, about 1 degree (the horizontal parallax, which is the angle subtended at the Moon by the Earth's radius). Why did not a few carefully executed measurements settle this issue quickly?  </para> 
+    <para id="para6"> First, there was in Europe no great tradition of making accurate, or even regular, astronomical observations before about 1500. For that reason, measuring instruments were primitive, not even taking advantage of the capabilities of existing technology. They were simple, hand-held, wooden instruments--little more than roughly calibrated sticks--and their accuracy was perhaps at best 1/4 degree, usually perhaps 1/2 degree. There was little accuracy and even less consistency in the measurements of individual astronomers. When it came to comparing the measurements of practitioners in places all over Europe, the situation became hopeless. The results were parallaxes ranging from 10 degree to negative values. </para> 
+    <para id="para7"> Second, astronomers and others who practiced the mathematical sciences dealt only with positions and motions. These were accidental properties of bodies and could tell you nothing about their essences. A mathematician could tell you where the apple was and he could describe its motion if it fell. But this information could not tell you what made this body an apple and why it fell. These were questions that belonged to philosophy. It was therefore not at all obvious that the measurements of the astronomers could turn an obviously changing cometary phenomenon into a perfect and immutable heavenly body.</para> 
+
+    <figure id="fig4">
+      
+      <media id="idm1109088" alt=""><image src="../../media/comet_1577-t.gif" mime-type="image/gif"/></media>
+      <caption>Comet of 1577</caption>
+    </figure>
+
+    <para id="para8"> By the time Galileo was beginning to turn his attention to the study of mathematics, the science of astronomy was changing. <link document="m11938">Copernicus's</link> <cite><cite-title>De Revolutionibus</cite-title></cite> (1543) had been around for a generation, and there were other cosmological theories as well that challenged the existing cosmology. When in 1577 a huge comet appeared whose tail spread in a great arc across the sky, observers all over Europe, Tycho Brahe among them, made measurements of its changing positions. The resulting literature was huge, and if the verdict was by no means unanimous, it was clear that the opinion that comets were heavenly bodies had become respectable in learned circles. The rising authority of <link document="m11946">Tycho Brahe</link>, based on his noble birth and his miraculous instruments, gave added impetus to the change of opinion. Over the next two generations the perfection of the heavens was abandoned, as were the crystalline spheres of which they were supposedly composed.  </para> 
+   
+    <figure id="fig5">
+      
+      <media id="idm671344" alt=""><image src="../../media/comet_1618-t.gif" mime-type="image/gif"/></media>
+      <caption><link resource="comet_1618-l.gif">Comet of 1618</link></caption>
+    </figure>
+
+    <para id="para9"> But placing comets in the heavens raised new questions. What were their paths? What was their nature? Through much of the seventeenth century the debate ranged. in his <cite><cite-title>Assayer</cite-title></cite> of 1623 Galileo argued that comets were optical phenomena and that therefore one could not measure their parallaxes. In this opinion he was not followed by others. It was argued that comets moved in straight lines or parabolic arcs. Descartes argued that comets were bodies that traveled from one solar system to another. </para> 
+    <para id="para10"> The mechanical philosophy of the second half of the seventeenth century had a great bearing on this debate, as we can see in Isaac Newton's conclusions. In his Mathematical Principles of Natural Philosophy of 1687, Newton argued that all matter attracts all other matter. If comets are made of matter, then they are attracted to the Sun just as the planets are. Given rectilinear inertia and a centrally directed force, the moving body's path must be a conic section. Edmond Halley took this notion and drew up a table of the parameters of the twenty-odd brightest comets that had been seen over the previous several centuries. He pointed out that the parameters of the comets of 1533, 1607 and 1682 were the same and concluded that this was a periodic comet. He predicted its return in 1758. In that year (Halley had died in 1742) the comet appeared as predicted and has been called Halley's Comet ever since. </para> 
+    <para id="para11"> </para> 
+
+  
+  </content>
+  
+  <glossary>
+    <definition id="para">
+	<term>parallax</term>
+      <meaning id="idm683408">- The change in the position of an object in the heavens due to the orbit of the earth. Observable parallax in the fixed stars is a proof of the rotation of the earth around the sun.</meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="cha">
+      <bib:book>
+	<bib:author>Chapman, Robert D. and Brandt, John C.</bib:author>
+	<bib:title>The Comet Book: A Guide for the Return of Halley's Comet</bib:title>
+	<bib:publisher>Jones and Bartlett</bib:publisher>
+	<bib:year>1984</bib:year>
+	<bib:address>Boston and Portola Valley</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="hell">
+      <bib:book>
+	<bib:author>Hellman, C. Doris</bib:author>
+	<bib:title>The Comet of 1577: Its Place in the History of Astronomy</bib:title>
+	<bib:publisher>AMS Press</bib:publisher>
+	<bib:year>1971</bib:year>
+	<bib:address>New York</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="jer">
+      <bib:book>
+	<bib:author>Jervis, Jane L.</bib:author>
+	<bib:title>Cometary Theory in Fifteenth-Century Europe</bib:title>
+	<bib:publisher>Ossolineum, The Polish Academy of Sciences Press</bib:publisher>
+	<bib:year>1985</bib:year>
+	<bib:address>Wroclaw</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="sag">
+      <bib:book>
+	<bib:author>Sagan, Carl and Druyan, Ann</bib:author>
+	<bib:title>Comet</bib:title>
+	<bib:publisher>Random House</bib:publisher>
+	<bib:year>1985</bib:year>
+	<bib:address>New York</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="tho">
+      <bib:article>
+	<bib:author>Thoren, Victor E.</bib:author>
+	<bib:title>"The Comet of 1577 and Tycho Brahe's System of the World"</bib:title>
+	<bib:journal>Archives Internationales d'Histoire des Sciences</bib:journal>
+	<bib:year>1979</bib:year>
+	<bib:volume>29</bib:volume>
+	<bib:pages>53-67</bib:pages>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+      
+
+</document>

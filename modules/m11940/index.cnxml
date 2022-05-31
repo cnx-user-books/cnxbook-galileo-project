@@ -1,0 +1,82 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Hans Lipperhey</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>51840522-4715-4250-8159-32ee78bb7235</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      Hans Lipperhey was born in Wesel (western Germany) and settled
+      in Middelburg, the capital of Zeeland, the southwesternmost
+      province of the Netherlands, where he married in 1594 and became
+      a citizen in 1602. His craft was that of spectacle-maker.
+      Middelburg was a flourishing city, especially after the fall of
+      Antwerp to the Spanish in 1585, which caused many of its
+      Protestant inhabitants to flee north to the Netherlands.
+
+      <figure id="fig1">
+	<media id="idp617088" alt=""><image src="../../media/lipperhey_patent_app.gif" mime-type="image/gif"/></media>
+	<caption>
+	  Minute of Lipperhey's patent application <cite target-id="rijksarchief"/>.
+	</caption>
+      </figure>
+    </para>
+
+    <para id="para2">
+      New glass-making techniques were introduced here by Italians in
+      the 1590s, and perhaps some ideas about combining lenses were
+      abroad in this glass-making community. Although others have
+      claimed the invention of the <link document="m11932">telescope</link> and the device was impossible
+      to keep secret, the earliest record of the existence of such a
+      device is a letter of the government of Zeeland to its
+      delegation to the States General of the Netherlands, dated 25
+      September 1608, which instructs them to be of help to the
+      bearer, "who claims to have a certain device by means of which
+      all things at a very great distance can be seen as if they were
+      nearby, by looking through glasses which he claims to be a new
+      invention." 
+      <footnote id="idm6003712">
+	Van Helden, The Invention of the Telescope, p. 36.
+      </footnote>
+      On 2 October the States General discussed Lipperhey's
+      application for a patent on the instrument. Although the patent
+      was eventually denied because it was felt that the device could
+      not be kept a secret, Lipperhey made several binocular
+      telescopes for the States General and was paid handsomely for
+      his services.
+    </para>
+
+    <para id="para3">
+      Shortly after that, the States General were also petitioned by
+      Jacob Metius of Alkmaar, a city in the north of the Netherlands,
+      who also claimed to be the inventor. The claim of yet a third
+      person, Sacharias Janssen, also a spectacle-maker in Middelburg,
+      emerged several decades later. The surviving records are not
+      sufficient to decide who was the actual (or as it was put in the
+      seventeenth century, the first) inventor of the telescope. All
+      we can say is that Lipperhey's patent application is the
+      earliest record of an actually existing telescope.
+    </para>
+  </content>
+
+  <bib:file>
+    <bib:entry id="vanhelden1977b">
+      <bib:article>
+	<bib:author>Albert Van Helden</bib:author>
+	<bib:title>The Invention of the Telescope</bib:title>
+	<bib:journal> Transactions of the American Philosophical Society</bib:journal>
+	<bib:year>1977</bib:year>
+	<bib:volume>67</bib:volume>
+	<bib:number>4</bib:number>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="rijksarchief">
+      <bib:misc>
+	<bib:author>Algemeen Rijksarchief</bib:author>
+	<bib:note>
+	  The Hague, MSS "Staten-Generaal," Vol. 33, f. 178v. Copyright, Algemeen Rijksarchief. Reproduced with permission.<!-- applies to connexions?--></bib:note>
+      </bib:misc>
+    </bib:entry>
+  </bib:file>
+  
+</document>

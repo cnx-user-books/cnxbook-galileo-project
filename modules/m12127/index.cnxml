@@ -1,0 +1,53 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Hydrostatic Balance</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>4cce8bc6-4c0d-4178-a0ea-4ec0a1687db2</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">The "Eureka" story about Archimedes and the bath
+    tub was as well known in Galileo's day as it is in ours. Galileo,
+    who was a great admirer of Archimedes and adopted many of his
+    methods, probably read it in one of the editions of Vitruvius's
+    <cite><cite-title>The Ten Books on Architecture</cite-title></cite>,<footnote id="idm7569088">There are many editions of The Ten Books on
+    Architecture. The story of Archimedes is related in the
+    introduction to Book IX.</footnote> which was very popular in
+    Renaissance Europe. Supposedly, it was in the bath tub that
+    Archimedes figured out the solution to the problem posed to him by
+    the king of Syracuse: was a crown (or wreath) supposedly made of
+    pure gold in fact entirely gold? He measured the amount of water
+    displaced by the crown and by an equal weight of gold, and found
+    that the crown displaced more water. Its <term target-id="spec">specific gravity</term> was thus less than that of
+    gold, and therefore it had been adulterated with another
+    metal. </para> <para id="para2"> Weighing precious metals in air
+    and then in water was presumably a practice that was common among
+    jewelers in Europe. Galileo had some ideas for refining the
+    practice and, at the age of 22, he wrote a little tract about it,
+    which he entitled <cite><cite-title>La Bilancetta</cite-title></cite>, or "The Little
+    Balance." What Galileo described was an accurate balance for
+    weighing things in air and water, in which the part of the arm on
+    which the counter weight was hung was wrapped with metal wire. The
+    amount by which the counterweight had to be moved when weighing in
+    water could then be determined very accurately by counting the
+    number of turns of the wire, and the proportion of, say, gold to
+    silver in the object could be read off directly. </para> <para id="para3"> This little tract illustrates the mixture of the
+    theoretical and practical that marks Galileo's science in contrast
+    to that of most of his contemporaries. </para>
+  </content>
+
+  <glossary>
+    <definition id="spec">
+      <term>specific gravity</term> <meaning id="idm7055456">- The ratio of the
+      density of any substance to the density of some other substance
+      taken as standard, with water being the standard for
+      solids.</meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="ferm">
+      <bib:book>
+	<bib:author>Fermi, Laura, and Gilberta Bernardini</bib:author>
+	<bib:title>Galileo and the Scientific Revolution</bib:title>
+	<bib:publisher>Basic Books</bib:publisher>
+	<bib:year>1961</bib:year> <bib:address>New York</bib:address>
+	</bib:book> </bib:entry> </bib:file> </document>

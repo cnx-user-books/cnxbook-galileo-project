@@ -1,0 +1,57 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Tommaso Campanella</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5e16f8bc-5ea6-431b-81c7-092b99c477f0</md:uuid>
+</metadata>
+
+  <content>
+
+    <figure id="fig1">
+      
+      <media id="idm812512" alt=""><image src="../../media/campanella-t.gif" mime-type="image/gif"/></media>
+      <caption><link resource="campanella.gif">Tommaso Campanella</link></caption>
+    </figure>
+
+    <para id="para1">Giovan Domenico Campanella, born in Stilo, Calabria (southern tip of the Italian peninsula), was a child prodigy. At the age of fourteen, he entered the <term target-id="domi">Dominican order</term> and took the name Tommaso. His formal training in philosophy and theology was in Dominican houses. Early in his career he became disenchanted with Aristotelian philosophy and became a follower of Bernardino Telesio (1509-1588), whose great work <cite><cite-title>De Rerum Natura</cite-title></cite> (after Lucretius, see <link document="m11956">atomism</link>) influenced him greatly. Telesio thought that all knowledge is sensation and that intelligence is therefore an collection of isolated data provided by the senses. For this his books were placed on the <link document="m11974">Index of Forbidden Books</link> after his death. But Telesio's philosophy, so influential in the south of Italy, pointed the way to empiricism. In 1592 Campanella published <cite><cite-title>Philosophia Sensibus Demonstrata</cite-title></cite>, or "Philosophy Demonstrated by the Senses," in defense of Telesio. </para>   
+    <para id="para2"> In Naples, in 1589, Campanella came into contact with Giambattista della Porta, a <term target-id="poly">polymath</term> who was the center of a diverse group of thinkers who dabbled in experiments, white magic, and astrology. Campanella here was exposed not only to primitive experiments, but also to astrology. His thoughts had now drifted so far from Dominican orthodoxy, that he was denounced to the <link document="m11944">Inquisition</link> and, in 1592, he was for a time confined in a convent. For the next seven years he led a <term target-id="peri">peripatetic</term> life, until in 1599 he was imprisoned in Naples for joining a movement to expel the Spanish from Naples and Sicily. He spent 27 years in prison in Naples, and then, upon his release, was jailed in Rome until 1629. During these imprisonments he often lived under the worst conditions and was tortured several times. After living in Rome for five years, where he advised <link document="m11983">Pope Urban VIII</link> on astrological matters, he fled to France in 1634, where he lived his life out peacefully under the protection of Cardinal Richelieu. </para>  
+    <para id="para3"> Campanella wrote on a wide range of subjects, from Telesian philsophy to political philosophy and astrology. In 1622 he published his <cite><cite-title>Apologia pro Galileo</cite-title></cite> ("Defense of Galileo") in which he defended the <link document="m11938">Copernican system</link> and the separate paths of Scripture and nature to knowledge of the Creator. He argued that truth about nature is not revealed in Scripture and claimed freedom of thought in philosophical speculation. His writings were influential not because of any scientific discoveries but because of animistic, empirical interpretation of nature. Campanella was a great admirer of Galileo and corresponded with him for many years. In his animistic, Neo-Platonic, astrological approach to nature he was, however, very different from the much more practical Florentine. </para>  
+
+  </content>
+
+<glossary>
+    <definition id="domi">
+      <term>Dominican Order </term>
+      <meaning id="idm1323728">- The popular name for the Order of Friars Preachers. The order was founded by Domingo de Guzman (known as Dominic) between 1215 and 1221. Like the Franciscans, the Dominicans were mendicant friars.  </meaning>
+    </definition>
+    <definition id="poly">
+      <term>polymath </term>
+      <meaning id="idm803568">- A person of great learning in several fields of study. </meaning>
+    </definition>
+    <definition id="peri">
+      <term>peripatetic </term>
+      <meaning id="idm608928">- Walking or travelling about. Of or pertaining to Aristotle, or the Aristotelian school of philosophy, who taught philosophy while walking in the Lyceum in ancient Athens. </meaning>
+    </definition>
+</glossary>
+  
+  <bib:file>
+    <bib:entry id="camp">
+      <bib:book>
+	<bib:author>Campanella, Tommasoco </bib:author>
+	<bib:title> A Defense of Galileo, the Mathematician from Florence </bib:title>
+	<bib:publisher>University of Notre Dame Press</bib:publisher>
+	<bib:year>1994</bib:year>
+	<bib:address>Translated by Richard J. Blackwell. Notre Dame</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="schmitt">
+      <bib:article>
+	<bib:author> Schmitt, Charles B.</bib:author>
+	<bib:title>"Campanella, Tommaso"</bib:title>
+	<bib:journal>Dictionary of Scientific Biography</bib:journal>
+	<bib:year/>
+	<bib:volume>XV</bib:volume>
+	<bib:pages>68-70</bib:pages>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+
+</document>

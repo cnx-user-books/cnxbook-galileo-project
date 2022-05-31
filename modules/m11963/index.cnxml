@@ -1,0 +1,87 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Longitude at Sea</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>525f4386-bdf7-4124-9ee0-13df416f527c</md:uuid>
+</metadata>
+
+  <content>
+
+    <figure id="fig1">
+      
+      <media id="idp597968" alt=""><image src="../../media/jovilabe.gif" mime-type="image/gif"/></media>
+      
+    </figure>
+
+    <para id="para1">Until the end of the fifteenth century, sailors navigated with almost daily reference to land. In the Mediterranean it was difficult to go very far astray, and in western and northwest Europe navigation was coastal. Ships hugged the shore from Gibraltar to the Norway and the Baltic. The only exception to this rule was the trade between Scandinavia, Iceland, and occasionally Greenland. These routes were discovered (probably by accident) by the Vikings around 1000 CE. With the Portuguese voyages of discovery, in the fifteenth century, navigation became more difficult. For some time Portuguese sailors hugged the coast of Africa, as they carefully explored the contours of this continent. Both the winds and the currents there made sailing south difficult, however, and beginning with the voyages of Diaz (who rounded the Cape of Good Hope) in 1486, Columbus in 1492, and da Gama in 1498, Spanish and Portuguese sailors sailed the high seas for weeks on end without seeing land. How did they know where they were and whether they were on the right course?</para>   
+    <para id="para2">Until the end of the fifteenth century, sailors navigated with almost daily reference to land. In the Mediterranean it was difficult to go very far astray, and in western and northwest Europe navigation was coastal. Ships hugged the shore from Gibraltar to the Norway and the Baltic. The only exception to this rule was the trade between Scandinavia, Iceland, and occasionally Greenland. These routes were discovered (probably by accident) by the Vikings around 1000 CE. With the Portuguese voyages of discovery, in the fifteenth century, navigation became more difficult. For some time Portuguese sailors hugged the coast of Africa, as they carefully explored the contours of this continent. Both the winds and the currents there made sailing south difficult, however, and beginning with the voyages of Diaz (who rounded the Cape of Good Hope) in 1486, Columbus in 1492, and da Gama in 1498, Spanish and Portuguese sailors sailed the high seas for weeks on end without seeing land. How did they know where they were and whether they were on the right course?</para>
+    <para id="para3">The only reference points on the high seas were the stars and Sun. Locations and courses now had to be spatial: a navigator needed to locate himself on a grid of imaginary lines of latitude and longitude.</para> 
+    <para id="para4"> The Portuguese pioneered the method of navigating by latitude. Ships had to be equipped with instruments (astrolabes, cross staffs) to measure the altitudes of stars or the Sun. It was not difficult to determine one's latitude to within about a degree by this method. Longitude was, however, a different matter. Observations of the Sun and stars were of no immediate help: in order to determine one's longitude with respect to, e.g., Lisbon, one had to find out the difference in local times between one's location and Lisbon. No easy method that was sufficiently accurate suggested itself. The magnitude of the problem is illustrated by the voyage of the Portuguese navigator Cabral who, on his way to the East Indies, swung west in the south Atlantic in order to pick up favorable winds and ran into the coast of Brazil. Further, the world maps prepared in the sixteenth century erred widely in the longitudes of places. The east-west length of the Mediterranean was in error by 19\x{00B0}--about 1100 miles! The longitudes of China and Japan were off by much larger margins. For nations engaged in trade with the East and West Indies, finding longitude at sea was a matter of national interest. Late in the sixteenth century the Spanish Crown instituted a large prize in the hope of a solution. This initiative was followed by the French, Dutch, and English governments in the seventeenth century.</para> 
+    <para id="para5"> Soon after the discovery of the <link document="m11971">satellites of Jupiter</link>, scientists realized that the formation of the satellites provided a clock whose face could be seen from every vantage point. In 1612 Nicholas Claude Fabri de Peiresc in Aix en Provence sent out an observer to the eastern part of the Mediterranean to observe Jupiter's satellites while he did the same at home. The idea was to compare the satellite positions and formations observed on the same day at Aix and, e.g., Tripoli and from these to deduce the difference in local (solar) times between the two locations. Peiresc was, however, disappointed by the results: the positions of the satellites changed too slowly for this purpose. Had the method been more accurate, he had hoped to provide sailors with tables of the motions of the satellites, so that they could carry the standard time reference with them and determine their longitude on the spot. Peiresc now abandoned this effort.</para> 
+    <para id="para6"> In 1612 Galileo for the first time observed an eclipse of a satellite of Jupiter. When a satellite enters the shadow cone behind the planet it disappears very quickly. Such eclipses were, for all practical purposes, instantaneous events. If a navigator on the high seas could note the local time of such an eclipse and compare it with the local time at which it was predicted to happen at the European reference location, the difference in times and therefore longitude could easily be found. Could sufficiently accurate tables be drawn up?</para> 
+    <para id="para7"> In 1613 Galileo entered into negotiations with the Spanish Crown to provide Spanish navigators with eclipse tables for the satellites and <link document="m11932">telescopes</link> with which to make the observations. He worked for many years to perfect his knowledge of the satellites' motions but never published his results (presumably because they were not sufficiently accurate). He did, however, have reasonable hopes of being able to predict eclipses over short periods. But there was a more severe problem. In order to observe the satellites, one needed a telescope of relatively high power, say 15, and given the small field of view of the Galilean telescope (perhaps 20' of arc) it was impossible to make the observation from the deck of a ship on the high seas. Galileo made some trials of a telescope attached to a helmet (he called this device a <emphasis>celatone</emphasis>) on ships riding at anchor in the harbor of Livorno, but this approach only worked with rather low-powered telescopes. The Spanish were not impressed by the method, and negotiations eventually faltered.</para> 
+    <para id="para8"> Galileo took up the problem again after his trial, and this time he negotiated (through intermediaries) with the States General of the Netherlands, who had just announced their prize. Although the Dutch government admired Galileo greatly, its committee came to the same conclusion its Spanish counterpart had earlier. For his efforts, the States General voted Galileo a gold medal and chain, but Galileo was forbidden by the Inquisition from accepting this award.</para> 
+    <para id="para9"> By Galileo's death, in 1642, the only tables of the motions of Jupiter's satellites were an inaccurate effort published by <link document="m11973">Simon Marius</link> in 1614. The Sicilian astronomer Giovanni Battista Odierna published new tables in 1654, but these were again not accurate. The first reasonably accurate tabl es were published by Gian Domenico Cassini in 1668.</para> 
+
+    <figure id="fig2">
+      
+      <media id="idp463312" alt=""><image src="../../media/cassini-t.gif" mime-type="image/gif"/></media>
+      <caption>Gian Domenico Cassini</caption>
+    </figure>
+
+    <para id="para10"> It was because of Cassini's tables that the Danish astronomer Olaeus Romer was able, in 1676, to find a systematic error of about 10 minutes, whose period was equal to the synodic period (opposition to opposition) of Jupiter. Romer correctly interpreted his result to demonstrate that light does not travel instantaneously. He estimated that it took eleven minutes for light from the Sun to reach the Earth.</para> 
+
+    <figure id="fig3">
+      
+      <media id="idp723104" alt=""><image src="../../media/ephemerides_tpg-t.gif" mime-type="image/gif"/></media>
+      <caption><link resource="ephemerides_tpg.gif">Cassini's tables of 1668</link></caption>
+    </figure>
+
+    <para id="para11"> Tables--especially those of the motion of the first satellites, whose period is about 42 hours and whose eclipses are therefore most frequent--were now becoming sufficiently accurate to hold out hope that they could be used for determining longitude at sea. The English worked hard--using first the newer astronomical telescope with its larger field of view and then, in the eighteenth century, the reflecting telescope--to make it possible for an observer on a ship to observe the satellites. They went so far as to install gimbaled observing seats that were independent of the motion of the ship. But progress was incrementally slow, and in the 1760s a practical solution to the problem of longitude at sea came from the clock-makers: John Harrison had managed to make clocks so accurate and impervious to motion that they could be carried on a ship and not err by more than seconds on a trip to the East Indies. On his first voyage to the South Seas, Captain James Cook took a Harrison chronometer with him and his trials proved this method to be entirely satisfactory.</para> 
+    <para id="para12"> In the meantime, however, the French had made a different use of satellite eclipses. If it was not feasible to make observations from the deck of a moving ship, it was certainly possible to observe the satellites on land. In the 1670s French astronomers, under the leadership of Cassini, began making observations of the satellites in many locations in France. The resulting map of France, finished in 1679 showed that the west coast of France was too far west by an entire degree on existing maps and that similar adjustments had to be made to the Mediterranean coast. It is said that upon seeing this map, King Louis XIV remarked that he was losing more territory to his astronomers than to his enemies.</para> 
+    <para id="para13"> The method of determining longitudes by means of observations of the eclipses of Jupiter's satellites was at the center of the revolution in geodesy in the eighteenth century. Travelers and explorers routinely timed eclipses and sent their results back to Paris and London, to be compared with the observations made there. When Charles Mason and Jeremiah Dixon surveyed the boundary line between Pennsylvania and Maryland, from 1763 to 1767, they used eclipses of the satellites of Jupiter to determine the exact longitudes of places.</para> 
+  </content>
+  
+  <bib:file>
+    <bib:entry id="bed">
+      <bib:book>
+	<bib:author>Bedini, Silvio A.</bib:author>
+	<bib:title>The Pulse of Time: Galileo, the Determination of Longitude, and the Pendulum Clock</bib:title>
+	<bib:publisher>Leo S. Olschki</bib:publisher>
+	<bib:year>1991</bib:year>
+	<bib:address>Florence</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="deb">
+      <bib:article>
+	<bib:author>Debarbat, Susanne and Wilson, Curtis</bib:author>
+	<bib:title>"The Galilean Satellites of Jupiter from Galileo to Cassini, Romer and Bradley"</bib:title>
+	<bib:journal>The General History of Astronomy</bib:journal>
+	<bib:year>1984</bib:year>
+	<bib:volume>IIA</bib:volume>
+	<bib:pages>144-157</bib:pages>
+<bib:note>4 vols. ed. M. A. Hoskin (Cambridge: Cambridge University Press</bib:note>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="roc">
+      <bib:article>
+	<bib:author>Roche, John</bib:author>
+	<bib:title>"Harriot, Galileo, and Jupiter's Satellites"</bib:title>
+	<bib:journal>Archives Internationales d'Histoire des Sciences</bib:journal>
+	<bib:year>1982</bib:year>
+	<bib:volume>32</bib:volume>
+	<bib:pages>9-51</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="van">
+      <bib:article>
+	<bib:author>Vanpaemel, G.</bib:author>
+	<bib:title>"Science Disdained: Galileo and the Problem of Longitude,</bib:title>
+	<bib:journal>Italian Scientists in the Low Countries in the XVIIth and XVIIIth Centuries</bib:journal>
+	<bib:year/>
+	<bib:pages>111-129</bib:pages>
+	<bib:note>ed. C. S. Maffeoli and L. C. Palm (Amsterdam: Rodopi, 1989)</bib:note>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+
+
+</document>

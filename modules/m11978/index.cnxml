@@ -1,0 +1,42 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>The Thermometer</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>4eb9db37-75d2-4d61-ba59-41c5e33a8544</md:uuid>
+</metadata>
+
+  <content>
+
+    <figure id="fig1">
+      
+      <media id="idp434496" alt=""><image src="../../media/thermoscope.gif" mime-type="image/gif"/></media>
+      <caption>Thermoscope</caption>
+    </figure>
+
+    <para id="para1">At the start of the seventeenth century there was no way to quantify heat. In Aristotelian matter theory, heat and cold were fundamental qualities. Like dry and wet, heat and cold were qualities combined with "prima materia" to make up the elements, earth, water, air, and fire. Thus earth was dry and cold, fire dry and hot, etc. Although one might speak of "degrees of heat or cold," there was no formal distinction between what we would call the <emphasis>extensive concept</emphasis> of heat and the <emphasis>intensive concept</emphasis> of temperature. Also these degrees were not measured, except perhaps in a very rough way as when a physician put his hand on a patient's forehead and diagnosed "fever heat."
+
+ </para>   
+    <para id="para2"> Measuring heat became a puzzle in the circle of practical and learned men in Venice to which Galileo belonged. The first solution was a thermoscope. Building on <cite><cite-title>Pneumatics</cite-title></cite> by Hero of Alexandria (1st century BCE), first published in the West in 1575, several authors had begun playing with the idea of the expansion of air as its heat increased, and vice versa. The first versions, usually called thermoscopes, were little more than toys. <link document="m11957">Benedetto Castelli</link> wrote in 1638 about a device he had seen in Galileo's hands around 1603:<quote display="block" id="idp353200"> He took a small glass flask, about as large as a small hen's egg, with a neck about two spans long [perhaps 16 inches] and as fine as a wheat straw, and warmed the flask well in his hands, then turned its mouth upside down into the a vessel placed underneath, in which there was a little water. When he took away the heat of his hands from the flask, the water at once began to rise in the neck, and mounted to more than a span above the level of the water in the vessel. The same Sig. Galileo had then made use of this effect in order to construct an instrument for examining the degrees of heat and cold.</quote> </para>  
+    <para id="para3"> Over the next several years this thermoscope was developed by <link document="m11969">Santorio Santorio</link> and Galileo's friend Gianfrancesco Sagredo (both in Venice), Galileo, and others to include a numerical scale. It had thus become a full-fledged air thermometer. The first series of quantitative meteorological observations date from this period. In other parts of Europe the inventor Cornelis Drebbel and Robert Fludd developed similar instruments. The questions about who was the first, and whether one derived his knowledge from another, are sterile ones which shed little light on the historical context in which this and other instruments (e.g., the <link document="m11932">telescope</link> and barometer) developed. The near simultaneous (and surely independent) invention of the air thermometer illustrates the seventeenth-century trend toward quantification of natural phenomena--an essential dimension of the "mathematization of nature." </para>  
+
+    <figure id="fig2">
+      
+      <media id="idm7041952" alt=""><image src="../../media/GGthermoscope.gif" mime-type="image/gif"/></media>
+      
+    </figure>
+
+    <para id="para4"> The liquid in glass thermometer was developed in the 1630s, but a universal standard of temperature remained elusive. Each scientist had his own scale divisions, often based on different reference points. It is impossible for us accurately to convert their measurements to our temperature scale, and at the time it was impossible to compare temperatures in different places. In the early eighteenth century, universal temperature scales based on several fiduciary points (e.g. a mixture of ice and brine, a mixture of ice and water, body temperature, the boiling point of water) were developed by Daniel Gabriel Fahrenheit (1686-1736), Anders Celsius (1701-1744), and Ren\x{00E9}-Antoine Ferchault de Reaumur (1683-1757). Of these, the first two are still in use, and the system of Celsius (extended to become an absolute scale in the nineteenth century) has become the standard scientific temperature scale. </para> 
+ 
+  </content>
+
+  <bib:file>
+    <bib:entry id="mid">
+      <bib:book>
+	<bib:author>Middleton, W.E. Knowles</bib:author>
+	<bib:title>The History of the Thermometer and its use in Meteorology</bib:title>
+	<bib:publisher>Johns Hopkins University Press</bib:publisher>
+	<bib:year>1966</bib:year>
+	<bib:address>Baltimore</bib:address>
+      </bib:book>
+    </bib:entry>
+  </bib:file>
+  
+</document>

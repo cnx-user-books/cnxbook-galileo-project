@@ -1,0 +1,63 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Accademia dei Lincei</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d26731c5-d237-4a9d-8a8b-0fdb410f299b</md:uuid>
+</metadata>
+
+  <content>
+    <figure id="cesi">
+      
+      <media id="idm8104880" alt=""><image src="../../media/cesi.gif" mime-type="image/gif"/></media>
+      <caption> Federico Cesi </caption>
+    </figure>
+    <para id="para1"> The Cesi family belonged to the high aristocracy of Rome and the Papal States. It originated in the little town of Cesi, near Rome, and its wealth derived largely from high offices connected with the church. (Frederico Cesi's paternal uncle, Bartolomeo Cesi, became a cardinal.) At the turn of the seventeenth century, its wealth was being eroded (like that of similar Roman families) by the ruinous expense of keeping up their "life-style of the rich and famous." The many titles held by members of the family were mostly empty honors with little or no economic significance.</para>   
+    <para id="para2">Cesi, son of Federico Cesi (hereditary Marquis of Monticello and Duke of Acquasparta, and later made a prince by Pope Paul V) and Olimpia Orsini, was born in Rome in 1585. He was educated privately and at an early age became interested in natural science. He was convinced, however, that nature should be studied directly, not through the filter of Aristotelian philosophy--an idea that was being enunciated by a growing number of learned men, among whom the most influential voice was to become that of Francis Bacon.</para>
+    <para id="para3">Cesi's father was strongly opposed to the career direction in which these studies were taking young Federico, but his mother (herself from a wealthy and powerful Roman family, the Orsini) provided him with both moral and financial support.</para>
+<figure id="cimento">
+      
+      <media id="idm626112" alt=""><image src="../../media/cimento_arms.gif" mime-type="image/gif"/></media>
+      <caption>  Coat of Arms </caption>
+    </figure>
+    <para id="para4">In 1603, at age eighteen, Cesi founded the Accademia dei Lincei, the Lyncean Academy. Its name came from Lynceus, the argonaut of Greek mythology renowned for his sharpness of sight. Its initial members were Cesi, the mathematician Francesco Stelluti, the physician Johannes Eck from the Low Countries, and the <term target-id="polymath">polymath</term> Anastasio De Fillis. The members lived communally and almost monastically in Cesi's house, where he provided them with books and laboratory equipment. In a 1605 document, the goals of the academy were stated to be "not only to acquire knowledge of things and wisdom, and living together justly and piously, but also peacefully to display them to men, orally and in writing, without any harm." Cesi devoted the rest of his life to these goals and his academy.</para> 
+    <para id="para5">The Lyncean Academy was steadfastly opposed by Cesi's father and other Roman aristocrats. Its members were accused of black magic, opposition to Church doctrine, and living a scandalous life. Eck was forced to leave Rome, and for some time the membership of the academy was scattered. Cesi kept in close contact with all of them through correspondence. During a stay in Naples, Cesi came to know the <term target-id="polymath">polymath</term> Giambattista della Porta, and he considered setting up a branch of the academy in that city. Porta became a member of the academy in 1610.</para>
+    <para id="para6">The most famous member of the academy was Galileo, who was inducted in the spring of 1611, during his visit to Rome. The academy's most celebrated publications were those of Galileo, first his <cite><cite-title>Letters on Sunspots</cite-title></cite> in 1613, and then his Assayer in 1623. After Galileo's induction, the membership grew rapidly, and at its height the Lyncean Academy had 32 members, including many in foreign countries.</para>
+    <para id="para7">Cesi's academy was very much a personal academy. Its impetus and funds came from him exclusively. When, in 1630, he died suddenly, his academy died with him. Galileo was just beginning the tedious process of obtaining a license for his <cite><cite-title>Dialogue Concerning the Two Chief World Systems</cite-title></cite>, and the plan had been for the academy to sponsor the book and pay for the printing costs.</para>
+  </content>
+
+  <glossary>
+    <definition id="polymath">
+      <term> polymath</term>
+      <meaning id="idm867824">- A person of great learning in several fields of study. </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="belloni">
+      <bib:article>
+	<bib:author>Belloni, Luigi </bib:author>
+	<bib:title> "Cesi, Federico"  </bib:title>
+	<bib:journal> Dictionary of Scientific Biography</bib:journal>
+	<bib:year/>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="biagioli">
+      <bib:book>
+	<bib:author>Biagioli, Mario </bib:author>
+	<bib:title>Galileo Courtier </bib:title>
+	<bib:publisher>University of Chicago Press </bib:publisher>
+	<bib:year> 1993 </bib:year>
+	<bib:address> Chicago </bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="singer">
+      <bib:article>
+	<bib:author>Singer, Charles </bib:author>
+	<bib:title>"The Earliest Figures of Microscopic Objects"  </bib:title>
+	<bib:journal>Endeavour </bib:journal>
+	<bib:year> 1953 </bib:year>
+	<bib:volume> 12 </bib:volume>  
+	<bib:pages>197-202 </bib:pages>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+
+</document>

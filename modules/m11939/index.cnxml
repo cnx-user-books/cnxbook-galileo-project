@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Collegio Romano</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>080e3980-407d-44f7-88c2-59781da99968</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      In 1534 Ignatius de Loyola and six companions bound themselves in vows of poverty, chastity, and apostolic labors. Six years later, Pope Paul III recognized the order as the Society of Jesus and authorized the framing of a detailed constitution. Rather than turning away from daily life in the tradition of monastic orders, the Jesuits formulated their  mission in the world at large, and specifically in three areas, teaching, service to the nobility, and missionary work in foreign lands. In all three areas they were extraordinarily successful, but almost from the start they made their greatest mark in education. By 1556, when the Society had about a thousand members, three-fourths were engaged in education in 46 colleges. In 1579 there were 144 colleges, and by 1626 444 colleges, 56 seminaries, and 44 houses of training for Jesuits. At the apex of all Jesuit seminaries stood the Collegio Romano, founded by Ignatius in 1551. By papal bulls of 1552 and 1556 it received the right to grant doctorates in philosophy and theology as well as the privileges enjoyed by the universities of Paris, Louvain, Salamanca, and Alcalà. By 1567 the Collegio Romano had over a thousand students, and Pope Gregory XIII erected a large building to house the students and faculty. Over the years the college gradually became known as the Gregorian University in honor of that pope. </para>
+
+    <para id="para2">
+      Although the mathematical sciences occupied a subservient role in the curriculum, they did have a role. In the ratio studiorum (curriculum rules) promulgated in 1566, we find the following:
+      <quote display="block" id="idp113408">
+	Concerning mathematics, the mathematician shall teach, in this order, the [first] six books of Euclid, arithmetic, the sphere [of Sacrobosco], cosmography, astronomy, the theory of the planets, the Alphonsine Tables, optics, and timekeeping. Only the second year philosophy students shall hear his lecture, but sometimes, with permission, also the students of	dialectics.  <cite/>[1]				 </quote>						</para>
+
+    <para id="para3">
+      Over the next four decades, <link document="m11958">Christoph Clavius</link> promoted the dignity of the mathematical (i.e. scientific) subjects and produced a series of textbooks that defined Jesuit scientific education not only in the Collegio Romano but in all Jesuit colleges. The influence of Jesuit mathematical education was felt in non-Jesuituniversities as well. It has been shown over the past two decades that Galileo's lecture notes from his days as a student at the university of Pisa had as their ultimate source the lectures of the mathematicians at the Collegio Romano. </para>
+
+    <para id="para4">
+      The Collegio Romano attracted the best scientists in the Society, and Jesuit educators as far away as China turned to them for their judgment on scientific matters. In 1610 there were four mathematicians on the faculty, <link document="m11958">Christoph Clavius</link>, Christoph Grienberger, Paolo Lembo, and Odo van Maelcote. It is to these four men that other Jesuits and high church officials turned for a verdict on the new phenomena Galileo claimed to have discovered with his <link document="m11932">telescope</link>.
+    </para>
+  </content>
+
+  <bib:file>
+    <bib:entry id="caraman1981">
+      <bib:book>
+	<bib:author>Philip Caraman</bib:author>
+	<bib:title>University of the Nations: The Story of the Gregorian University with its Associated Institutes, the Biblical and Oriental. 1551-1962</bib:title>
+	<bib:publisher>Paulist Press</bib:publisher>
+	<bib:year>1981</bib:year>
+	<bib:address>Ramsey, NJ</bib:address>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="carugoandcrombie1983">
+      <bib:article>
+	<bib:author>Adriano Carugo and A. C. Crombie</bib:author>
+	<bib:title>The Jesuits and Galileo's Ideas of Science and Nature</bib:title>
+	<bib:journal>Annali dell'Istituto e Museo di Storia della Scienza di Firenze</bib:journal>
+	<bib:year>1983</bib:year>
+	<bib:volume>8</bib:volume>
+	<bib:number>2</bib:number>
+	<bib:pages>3-68</bib:pages>
+      </bib:article>
+    </bib:entry>
+
+    <bib:entry id="crombie1975">
+      <bib:incollection>
+	<bib:author>A. C. Crombie</bib:author>
+	<bib:title>Sources of Galileo's Early Natural Philosophy</bib:title>
+	<bib:booktitle>Reason, Experiment, and Mysticism in the Scientific Revolution</bib:booktitle>
+	<bib:publisher>Science History Publications</bib:publisher>
+	<bib:year>1975</bib:year>
+	<bib:editor>Maria Luisa Righini Bonelli and William R. Shea</bib:editor>
+	<bib:pages>157-175</bib:pages>
+	<bib:address>New York</bib:address>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="pasquale1960">
+      <bib:book>
+	<bib:author>D'Elia Pasquale</bib:author>
+	<bib:title>Galileo in China: Relations through the Roman College between Galileo and the Jesuit Scientist-Missionaries (1610-1640)</bib:title>
+	<bib:publisher>Harvard University Press</bib:publisher>
+	<bib:year>1960</bib:year>
+	<bib:address>Cambridge</bib:address>
+	<bib:note>tr. Rufus Suter and Matthew Sciascia</bib:note>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="wallace1984">
+      <bib:book>
+	<bib:author>William A. Wallace</bib:author>
+	<bib:title>Galileo and his Sources: The Heritage of the Collegio Romano in Galileo's Science</bib:title>
+	<bib:publisher>Princeton University Press</bib:publisher>
+	<bib:year>1984</bib:year>
+	<bib:address>Princeton</bib:address>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="lattis1994">
+      <bib:book>
+	<bib:author>James M. Lattis</bib:author>
+	<bib:title>Between Copernicus and Galileo: Christoph Clavius and the Collapse of Ptolemaic Cosmology</bib:title>
+	<bib:publisher>University of Chicago Press</bib:publisher>
+	<bib:year>1994</bib:year>
+	<bib:address>Chicago</bib:address>
+	<bib:note>passim.</bib:note>
+      </bib:book>
+    </bib:entry>
+  </bib:file>
+</document>

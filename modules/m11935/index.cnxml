@@ -1,0 +1,150 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+	<title>Giordano Bruno (1548-1600)</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5a11d601-de3b-46b1-a8e8-ee2429764828</md:uuid>
+</metadata>
+	<content>
+		<figure id="figure1">
+			<title>Giordano Bruno</title>
+			<media id="idp110464" alt=""><image src="../../media/bruno-t.gif" mime-type="image/gif"/></media>
+			<caption> Christian Bartholméss, Jordano Bruno (Paris: Libaririe Philosophique de Ladrange, 1846), frontispiece.</caption>
+		</figure>
+		<para id="para1">
+     Filippo Bruno was born in Nola, near Naples, the son of Giovanni
+    Bruno, a soldier, and Fraulissa Savolino. He took the name
+    Giordano upon entering the Dominican order. In the great Dominican
+    monastery in Naples (where Thomas Aquinas had taught), Bruno was
+    instructed in Aristotelian philosophy. His exceptional expertise
+    in the art of memory brought him to the attention of patrons, and
+    he was brought to Rome to demonstrate his abilities to the
+    Pope. During this period he may also have come under the influence
+    of Giovanni Battista Della Porta, a Neapolitan <term target-id="polymath">polymath</term> who
+    published an important book on natural magic. Bruno was attracted
+    to new streams of thought, among which were the works of Plato and
+    Hermes Trismegistus, both resurrected in Florence by Marsilio
+    Ficino in the late fifteenth century. Hermes Trismegistus was
+    thought to be a gentile prophet who was a contemporary of
+    Moses. The works attributed to him in fact date from the turn of
+    the Christian era.  
+    </para>
+		<para id="para2">
+       Because of his heterodox tendencies, Bruno came to the
+       attention of the <link document="m11944">Inquisition</link> in Naples and in 1576 he left the
+       city to escape prosecution. When the same happened in Rome, he
+       fled again, this time abandoning his Dominican habit. For the
+       next seven years he lived in France, lecturing on various
+       subjects and attracting the attention of powerful patrons. From
+       1583 to 1585 he lived at the house of the French ambassador in
+       London. During this period he published the books that are most
+       important for our purposes, <cite><cite-title>Cena de le Ceneri</cite-title></cite> ("The Ash
+       Wednesday Supper") and <cite><cite-title>De l'Infinito, Universo e Mondi</cite-title></cite> ("On the
+       Infinite Universe and Worlds"), both published in 1584. In <cite><cite-title>Cena
+       de le Ceneri</cite-title></cite>, Bruno defended the heliocentric theory of
+       <link document="m11938">Copernicus</link> . It appears that he did not understand astronomy
+       very well, for his theory is confused on several points. In De
+       l'Infinito , Universo e Mondi, he argued that the universe was
+       infinite, that it contained an infinite number of worlds, and
+       that these are all inhabited by intelligent beings.
+    </para>
+		<para id="para3">
+       Wherever he went, Bruno's passionate utterings led to
+       opposition. During his English period he outraged the Oxford
+       faculty in a lecture at the university; upon his return to
+       France, in 1585, he got into a violent quarrel about a
+       scientific instrument. He fled Paris for Germany in 1586, where
+       he lived in Wittenberg, Prague, Helmstedt, and Frankfurt. As he
+       had in France and England, he lived off the munificence of
+       patrons, whom after some time he invariably outraged. In 1591
+       he accepted an invitation to live in Venice. Here he was
+       arrested by the Inquisition and tried. After he had recanted,
+       Bruno was sent to Rome, in 1592, for another trial. For eight
+       years he was kept imprisoned and interrogated
+       periodically. When, in the end, he refused to recant, he was
+       declared a heretic and burned at the stake.
+    </para>
+		<para id="para4">
+       It is often maintained that Bruno was executed because of his
+       Copernicanism and his belief in the infinity of inhabited
+       worlds. In fact, we do not know the exact grounds on which he
+       was declared a heretic because his file is missing from the
+       records. Scientists such as Galileo and <link document="m11962">Johannes Kepler</link> were
+       not sympathetic to Bruno in their writings.
+    </para>
+	</content>
+	<glossary>
+		<definition id="polymath">
+			<term>polymath</term>
+			<meaning id="idp909728"> A person of great learning in several fields of study.</meaning>
+		</definition>
+	</glossary>
+	<bib:file>
+		<bib:entry id="entry1">
+			<bib:article>
+				<bib:author>Frances Yates</bib:author>
+				<bib:title>No Title Given</bib:title>
+				<bib:journal>Dictionary of Scientific Biography</bib:journal>
+				<bib:year>No Year Given</bib:year>
+			</bib:article>
+		</bib:entry>
+		<bib:entry id="entry2">
+			<bib:book>
+				<bib:author>Giordano Bruno</bib:author>
+				<bib:title>The Ash Wednesday</bib:title>
+				<bib:publisher>The Hague:Mouton</bib:publisher>
+				<bib:year>1975</bib:year>
+			</bib:book>
+		</bib:entry>
+		<bib:entry id="entry3">
+			<bib:book>
+				<bib:author>Sidney Greenberg</bib:author>
+				<bib:title>The Infinite in Giordano Bruno, with a Translation of his Dialogue Concerning the Cause, Principle, and One</bib:title>
+				<bib:publisher>New York: King's Crown Press</bib:publisher>
+				<bib:year>1950</bib:year>
+			</bib:book>
+		</bib:entry>
+		<bib:entry id="entry4">
+			<bib:book>
+				<bib:author>Jack Lindsay</bib:author>
+				<bib:title>Cause, Principle, and Unity; Five Dialogues</bib:title>
+				<bib:publisher>New York: International Publishers</bib:publisher>
+				<bib:year>1964</bib:year>
+			</bib:book>
+		</bib:entry>
+		<bib:entry id="entry5">
+			<bib:book>
+				<bib:author>Dorothea Waley Singer</bib:author>
+				<bib:title>Giordano Bruno, his Life and Thought. With Annotated Translation of his Work, On the Infinite Universe and Worlds</bib:title>
+				<bib:publisher>New York: Schuman</bib:publisher>
+				<bib:year>1900</bib:year>
+			</bib:book>
+		</bib:entry>
+		<bib:entry id="entry6">
+			<bib:book>
+				<bib:author>Frances Yates</bib:author>
+				<bib:title>Giordano Bruno and the Hermetic Tradition</bib:title>
+				<bib:publisher>Chicago: University of Chicago Press</bib:publisher>
+				<bib:year>1964</bib:year>
+			</bib:book>
+		</bib:entry>
+		<bib:entry id="entry7">
+			<bib:article>
+				<bib:author> Walter Pagel</bib:author>
+				<bib:title>Giordano Bruno: The Philosophy of Circles and the Circular Movement of the Blood</bib:title>
+				<bib:journal>Journal of the History of Medicine and Allied Sciences</bib:journal>
+				<bib:year>1951</bib:year>
+				<bib:volume>6</bib:volume>
+				<bib:pages>116-125</bib:pages>
+			</bib:article>
+		</bib:entry>
+		<bib:entry id="entry8">
+			<bib:article>
+				<bib:author>Angus Armitage</bib:author>
+				<bib:title>The Cosmology of Giordano Bruno</bib:title>
+				<bib:journal>Annals of Science</bib:journal>
+				<bib:year>1948</bib:year>
+				<bib:volume>6</bib:volume>
+				<bib:pages>24-31</bib:pages>
+
+			</bib:article>
+		</bib:entry>
+	</bib:file>
+</document>

@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>The Congregation of the Index</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d5ec875a-b836-47ee-805c-d240944a9999</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">Freedom of thought and written and oral expression is historically a relatively recent development. For those who were the shepherds of Christian souls and whose function it was to get those souls to heaven, the idea that anyone could think and say or write what he/she wanted was an absurdity. Moreover, it was dangerous because it might lead others into error. As early as 170 CE, the Church promulgated a list of genuine books of the New Testament and excluded others from use in religious practice. In 405 CE, Pope Innocent I published a list of forbidden books, and at the end of that century issued a decree that has been called the first Index of Forbidden Books. It listed the genuine books of the Bible, the apocryphal books, and heretical books. Henceforth Popes and Councils periodically published lists of forbidden books.</para>
+    <para id="para2"> With the Council of Trent (1545-1563), the Church instituted a permanent institution to deal with this subject. The Congregation of the <link document="m11944">Inquisition</link> was initially charged with drawing up a complete list of forbidden books. This list, the first general one, was published in 1559; it was the first to be called Index. It was immediately subject to revision by a papal commission, which published its result in 1564, the Tridentine Index. This index also provided rules for censorship. For almost two centuries, the Index was updated periodically without major revisions, but beginning in 1664 the Index listed forbidden books not according to categories but simply alphabetically. In 1757 and 1897 there were major revisions in the general norms governing censorship and prohibition. The last edition of the Index was that of 1948; it was abolished in 1966. The Catholic Church has, however, not relinquished authority to forbid the reading of books that in its judgment are a danger to the faith and morals of Catholics. Further, books listed on the 1948 Index are not automatically permitted reading for Catholics. For many permission from Church authorities is still required.</para>
+    <para id="para3"> In the cases of the <link document="m11938">Copernican System</link>, the Church was slow to act because it did not see immediate danger to the faithful in <cite><cite-title>De Revolutionibus</cite-title></cite> (1543). For one thing, it was written by a member of the Church. Copernicus was a <term target-id="cano">canon</term> in a monastery, and he dedicated his book to Pope Paul III. For another, the book contained a preface (discovered by Kepler not to have been written by Copernicus) that stated that the geocentric system proposed in the book was only a mathematical hypothesis and made no claims about how the universe was really constituted. But with Galileo's writings, which reached out to a wide audience and brought the argument about Copernicus into the mainstream of educated discourse, the Church acted. In 1616, after 73 years, it placed <cite><cite-title>De Revolutionibus</cite-title></cite> on the Index subject to revision, along with several other books that defended the Copernican System. It is interesting to note that the revisions required in Copernicus's book were, in terms of the total work, actually very minor. Copies of <cite><cite-title>De Revolutionibus</cite-title></cite> that were in Italy at this time show the revisions: a few deleted passages and a few changes of individual words. None of Galileo's books were placed on the Index at this time. <link document="m11962">Kepler's</link> <cite><cite-title>New Astronomy</cite-title></cite>, his <cite><cite-title>Epitome of Copernican Astronomy</cite-title></cite>, and his <cite><cite-title>World Harmony</cite-title></cite> were quickly placed on the Index. During the proceedings against Galileo in 1633, his Dialogue <cite><cite-title>Concerning the Two Chief Systems of the World</cite-title></cite> was placed on the Index, where it remained until 1824.</para>   
+  </content>
+  
+  <glossary>
+    <definition id="cano">
+      <term>canon</term>
+      <meaning id="idm87056">- One of a body of dignitaries attached to a cathedral or a collegiate church, or a member of certain religious orders.</meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="gren">
+      <bib:book>
+	<bib:author>Grendler, Paul F.</bib:author>
+	<bib:title>Culture and Censorship in late Renaissance Italy and France</bib:title>
+	<bib:publisher>Variorum Reprints</bib:publisher>
+	<bib:year>1981</bib:year>
+	<bib:address>London</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="gre">
+      <bib:book>
+	<bib:author>Grendler, Paul F.</bib:author>
+	<bib:title>The Roman Inquiaition and the Venetian Press</bib:title>
+	<bib:publisher>Princeton University Press</bib:publisher>
+	<bib:year>1977</bib:year>
+	<bib:address>Princeton</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="ind">
+      <bib:article>
+	<bib:author/>
+	<bib:title>"Index of Forbidden Books"</bib:title>
+	<bib:journal>Catholic Encyclopedia.</bib:journal>
+	<bib:year/>
+      </bib:article>
+    </bib:entry>																																																																																																									      
+  </bib:file>
+
+</document>

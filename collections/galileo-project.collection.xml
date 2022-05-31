@@ -1,0 +1,131 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10234</md:content-id>
+    <md:title>Galileo Project</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
+    <md:uuid>87de09a0-97fe-4cb1-9330-810cb47e3040</md:uuid>
+<md:slug>galileo-project</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m11933"/>
+    <col:subcollection>
+      <md:title>Galileo</md:title>
+      <col:content>
+        <col:module document="m11931"/>
+        <col:subcollection>
+          <md:title>Galileo's Education</md:title>
+          <col:content>
+            <col:module document="m11939"/>
+            <col:module document="m11955"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Galileo's Patrons</md:title>
+          <col:content>
+            <col:module document="m11937"/>
+            <col:module document="m11975"/>
+            <col:module document="m11967"/>
+            <col:module document="m11983"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Important Places</md:title>
+          <col:content>
+            <col:module document="m11936"/>
+            <col:module document="m11960"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Galileo's Family</md:title>
+      <col:content>
+        <col:module document="m11934"/>
+        <col:module document="m11941"/>
+        <col:module document="m11942"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Science</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Scientists</md:title>
+          <col:content>
+            <col:module document="m11940"/>
+            <col:module document="m11969"/>
+            <col:module document="m11982"/>
+            <col:module document="m11961"/>
+            <col:module document="m11964"/>
+            <col:module document="m11957"/>
+            <col:module document="m11962"/>
+            <col:module document="m11985"/>
+            <col:module document="m11973"/>
+            <col:module document="m11946"/>
+            <col:module document="m11984"/>
+            <col:module document="m11979"/>
+            <col:module document="m11958"/>
+            <col:module document="m12126"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Institutions</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Instruments</md:title>
+          <col:content>
+            <col:module document="m11976"/>
+            <col:module document="m12127"/>
+            <col:module document="m11929"/>
+            <col:module document="m11977"/>
+            <col:module document="m11978"/>
+            <col:module document="m11932"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Observations, experiments, and discoveries</md:title>
+          <col:content>
+            <col:module document="m11945"/>
+            <col:module document="m11970"/>
+            <col:module document="m11971"/>
+            <col:module document="m11972"/>
+            <col:module document="m11980"/>
+            <col:module document="m11959"/>
+            <col:module document="m11963"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Theories</md:title>
+          <col:content>
+            <col:module document="m11938"/>
+            <col:module document="m11943"/>
+            <col:module document="m11956"/>
+            <col:module document="m11965"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Christianity</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Inquisition</md:title>
+          <col:content>
+            <col:module document="m11944"/>
+            <col:module document="m11974"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Church Figures</md:title>
+          <col:content>
+            <col:module document="m11935"/>
+            <col:module document="m11968"/>
+            <col:module document="m11981"/>
+            <col:module document="m11966"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

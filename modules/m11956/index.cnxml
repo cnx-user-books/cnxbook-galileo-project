@@ -1,0 +1,82 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Atomism</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5189224a-0a10-4ce6-bdd3-dd7525391c43</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">The notion that matter is made up of small, indivisible particles goes back to the ancient Greeks. In the sixth century BCE, thinkers began asking questions about what is the basic underlying reality of the world. In view of the constant change we see in the world around us, is there some substratum (<emphasis>physis</emphasis>, hence our word physics) that is constant? If so, is it material or immaterial, accessible through the senses or only through the mind, is it one or many? Over the next several centuries, these questions were answered in several different ways. Some believed that all was change, others that change was illusory. The Pythagoreans thought that the physis was "number" and pioneered the mathematical approach to nature. Their idealist approach was in stark contrast to that of the materialists, among whom the atomists were most prominent. Leucippus of Miletus (ca. 435 BCE) and Democritus of Abdera (ca. 410 BCE) developed the atomic hypothesis. According to them matter can be subdivided only to a certain point, at which only atoms (that which cannot be cut) remain. The world is made up of atoms moving in the void. Atoms differed from each other only in size and shape, and different substances with their distinct qualities were made up of different shapes, arrangements, and positions of atoms. Atoms were in continuous motion in the infinite void and constantly collided with each other. During these collisions they could rebound or stick together because of hooks and barbs on their surfaces. Thus, underlying the changes in the perceptible world, there was constancy (atoms were neither created nor destroyed); change was caused by the combinations and dissociations of the atoms.</para> 
+    <para id="para2"> Democritus gave some examples of how the atomic hypothesis could account for qualities such as color and taste (sharp tastes are caused by sharp atoms), but on the whole atomism, like other contemporary global theories, remained a general theory. It was criticized by Aristotle (384-322 BCE) for some of its logical inconsistencies<footnote id="idp789136">If atoms have different shapes, then they have parts, and this means that they are mathematically divisible; if they have different sizes, then among the infinity of their number there must be atoms as big as the world.</footnote> and for its inability to explain qualities (color, taste, odor, etc.) that we call (after Galileo) secondary qualities. Aristotle's matter theory was fundamentally qualitative: qualities were built into the fundamental building blocks that made up substances. And against the atomists' idea of a nature without design or purpose, Aristotle constructed a natural philosophy that made nature a purposeful agent.</para>
+    <para id="para3"> In the philosophical system of Epicurus (341-270 BCE), physics was subordinated to ethics. The aim of his philosophy was to overcome irrational fears of natural phenomena and to achieve peace of mind. Epicurus explained natural phenomena by atomism, but he made several modifications to the doctrine in view of Aristotle's criticisms. He distinguished between physical and mathematical divisibility and gave atoms weight. In his system atoms originally fell through the infinite void with equal speeds, until one swerved by a tiny amount. This was an uncaused event. This swerve caused collisions and swirls of atoms, and thus worlds were formed. The Epicurean ethical system was influential over the next several centuries, and one of its Roman practitioners, Lucretius (first century BCE), wrote a long poem about it, <cite><cite-title>De Rerum Natura</cite-title></cite> ("On the Nature of Things"), from which much of our knowledge about atomism derives.</para>
+    <para id="para4"> In the Christian world, nature was seen as the product of a transcendent creator and was therefore fundamentally rational. Aristotelian notions of purpose and order fit the Christian mindset much better. Moreover, in atomism there was an unbridgeable gap between the level of the atoms and the observable phenomena, whereas Aristotelian natural philosophy addressed observable phenomena directly. Aristotle did, however, postulate <emphasis>minima</emphasis>, the theoretical limit of divisibility of substances, and therefore within European Aristotelianism, there was discussion about the meaning of this limit and in some quarters minima took on a corpuscular nature. This train of thought merged with a revived atomism, caused by the recovery of Lucretius's <cite><cite-title>De Rerum Natura</cite-title></cite> ca. 1415 CE, to give rise to a corpuscular doctrine that provided the material foundation of the mechanistic philosophy of the seventeenth century. We must be careful, however, not to think that all those who sought causal explanations in the minute building blocks of matter were atomists. Thus, Descartes (1596-1650) believed that matter was infinitely divisible and had no weight (or mass).</para>
+    <para id="para5"> In his <cite><cite-title>Assayer</cite-title></cite> of 1623, Galileo explained his notion of the difference between those qualities, mostly found by touch, that are inherent in bodies (weight, roughness, smoothness, etc.) and those that are in the mind of the observer (taste, color, etc.)--in other words, the difference between what we call primary and secondary qualities. In this discussion he referred to bodies that "continually dissolve into minute particles"<footnote id="idp886944"> Dtillman Drake and C. D. O'Malley, The Controversy over the Comets of 1618, (Philadelphia: University of Pennsylvania Press, 1960), p. 310.</footnote> and stated his opinion that "for exciting in us tastes, odors, and sounds there are required in external bodies anything but sizes, shapes, numbers, and slow or fast movements."<footnote id="idp774400">Ibid., p. 311.</footnote> An anonymous cleric filed a report with the <link document="m11944">Inquisition</link> in which he claimed the first citation to show that Galileo was an atomist and the second to be in conflict with the Council of Trent's pronunciations on the Eucharist.<footnote id="idp726336">Maurice A. Finocchiaro,The Galileo Affair: a Documentuary History, (Berkley and Los Angeles: University of California Press, 1989) pp. 202-204. Pietro Redondi, Galileo Heretic, (Princeton: Princeton University Press, 1987), pp. 333-35.</footnote> The report did not lead to any action against Galileo.</para>
+    <para id="para6"> Galileo's notions about the constitution of matter emerge in his <cite><cite-title>Discourses on Two New Sciences</cite-title></cite> of 1638. In his discussion of cohesion--what holds matter together--he puts forward the notion that objects are made up of an infinite number of infinitely small particles held together by an infinite number of small vacua. He did not go beyond this point, but it is clear that this "atomism" is almost exclusively mathematical.</para>
+
+  </content>
+
+  <bib:file>
+    <bib:entry id="dra">
+      <bib:book>
+	<bib:author>Drake, Stillman and C. D. O'Malley</bib:author>
+	<bib:title>The Controversey over the Comets of 1618</bib:title>
+	<bib:publisher>University of Pennsylvania Press</bib:publisher>
+	<bib:year>1960</bib:year>
+	<bib:address>Philadelphia</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="epi">
+      <bib:book>
+	<bib:author>Epicurus</bib:author>
+	<bib:title>Extant Remains, tr. Cyril Bailey</bib:title>
+	<bib:publisher>G. Olms</bib:publisher>
+	<bib:year>1970</bib:year>
+	<bib:address>Hildesheim, New York</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="fre">
+      <bib:book>
+	<bib:author>Fremantle, Richard</bib:author>
+	<bib:title>Two New Sciences. Translated by Stillman Drake</bib:title>
+	<bib:publisher>University of Wisconsin Press</bib:publisher>
+	<bib:year>1974</bib:year>
+	<bib:address>Madison</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="kar">																																																																											       
+      <bib:book>
+	<bib:author>Kargon, Robert H.</bib:author>
+	<bib:title>Atomism in England from Harriot to Newton</bib:title>
+	<bib:publisher>Clarendon Press</bib:publisher>
+	<bib:year>1966</bib:year>
+	<bib:address>Oxford</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="llo">
+      <bib:book>
+	<bib:author>Lloyd, G. E. R.</bib:author>
+	<bib:title>Early Greek science: Thales to Aristotle</bib:title>
+	<bib:publisher>London; New York</bib:publisher>
+	<bib:year>1970</bib:year>
+	<bib:address>Chatto and Windus; W. W. Norton</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="luc">
+      <bib:book>
+	<bib:author> Lucretius</bib:author>
+	<bib:title>Lucretius on the nature of the universe,  tr. R. E. Latham</bib:title>
+	<bib:publisher>Penguin Books</bib:publisher>
+	<bib:year>1951</bib:year>
+	<bib:address>Harmondsworth</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="red">
+      <bib:book>
+	<bib:author>Redondi, Pietro</bib:author>
+	<bib:title>Galileo Heretic, tr. Raymond Rosenthal</bib:title>
+	<bib:publisher>Princeton University Press</bib:publisher>
+	<bib:year>1987</bib:year>
+	<bib:address>Princeton</bib:address>
+      </bib:book>
+    </bib:entry>
+  </bib:file>
+  
+</document>

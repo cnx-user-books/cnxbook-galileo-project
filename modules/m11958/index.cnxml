@@ -1,0 +1,73 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Christopher Clavius</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a9805a53-4d70-4b4d-970c-456253dd9278</md:uuid>
+</metadata>
+
+  <content>
+
+    <figure id="fig1">
+      
+      <media id="idp2582720" alt=""><image src="../../media/clavius.gif" mime-type="image/gif"/></media>
+      <caption> Christopher Clavius</caption>
+    </figure>
+
+    <para id="para1">Nothing is known of Clavius's early life, except that he was born in Bamberg in the German region. We do not even know his German name, although various possibilities have been suggested. Clavius grew up during the initial stages of the Protestant Reformation in a region of Germany, Franconia, that remained Catholic. Three years after he was born, Ignatius de Loyola founded the <term target-id="jesu">Jesuit</term> order with ten initial members; its membership had reached about a thousand by 1555, when Clavius was admitted to the order in Rome, a month before his seventeenth birthday. In 1556 he was sent to the university of Coimbra in Portugal, where the Jesuits had founded their own college. Here he took the normal university curriculum but excelled in the mathematical subjects, and his observation of the total solar eclipse of 1560 made him decide that astronomy would be his life's work. In 1560 he returned to Rome and began his study of theology at the <link document="m11939">Collegio Romano</link>. He was ordained in 1564 while still pursuing his theological studies. In 1575 he became a full member of the order. He began teaching the mathematical subjects at the college as early as 1564 and, except for a two-year stay in Naples, he was on the faculty of the Collegio Romano until his death in 1612. </para>      
+    <para id="para2"> As the foremost mathematician of the Jesuit order, Clavius wrote a number of textbooks, all of which went through numerous editions during his life. These include his version of Euclid's <cite><cite-title>Elements</cite-title></cite>, his commentary on the <cite><cite-title>Sphere</cite-title></cite> of Sacrobosco, and books on algebra, the astrolabe, and practical arithmetic and geometry. Clavius was the senior mathemtician on the commission for the reform of the calendar that led, in 1582, to the institution of the Gregorian calendar. Because of his prodigious output of mathematical works, he was called "the Euclid of the sixteenth century." Through his teaching and textbooks, and also through several mathematical curricula drafted by him, Clavius shaped mathematical education in the Jesuit order all over the world. </para>   
+    <para id="para3"> In his astronomical books, Clavius opposed the <link document="m11938">Copernican System</link> on both physical and scriptural grounds. Until near the end of his life he remained an adherent of the <link document="m11943">Ptolemaic System</link>. From his university days, Galileo was familiar with Clavius's books, and he visited the famous man during his first trip to Rome in 1587. After that they corresponded from time to time about mathematical problems, and Clavius sent Galileo copies of his books as they appeared. The publication of <cite><cite-title>Sidereus Nuncius</cite-title></cite>, in 1610, posed a serious problem for Clavius and his mathematical colleagues in the Collegio Romano. Their opinion of the new phenomena discovered by Galileo was sought by Catholics everywhere, but Clavius and his colleagues did not have instruments good enough to verify them. Clavius was initially skeptical, but by the end of 1610 he and other mathematicians of the college had confirmed the existence of the <link document="m11971">satellites of Jupiter</link> and seen the phases of Venus. In April 1611, during Galileo's visit to Rome, they certified the phenomena revealed by the telescope as real. Clavius was, however, very cautious in his interpretation of several of them, especially the meaning of the rough appearance of the <link document="m11945">Moon</link>. He was at the time working on the edition of his commentary on the <cite><cite-title>Sphere</cite-title></cite> of Sacrobosco for his collected works. These <cite><cite-title>Opera Mathematica</cite-title></cite> appeared in Bamberg in 1611-12. In this last edition of his <cite><cite-title>Sphere</cite-title></cite>, Clavius mentioned the telescopic discoveries of Galileo briefly as follows:</para>
+    <para id="para4"><quote display="block" id="idp289152"> I do not want to hide from the reader that not long ago a certain instrument was brought from Belgium. It has the form of a long tube in the bases of which are set two glasses, or rather lenses, by which objects far away from us appear very much closer . . . than the things themselves are. This instrument shows many more stars in the firmament than can be seen in any way without it, especially in the Pleiades, around the nebulas of Cancer and Orion, in the Milky Way, and other places . . . and when the Moon is a crescent or half full, it appears so remarkably fractured and rough that I cannot marvel enough that there is such unevenness in the lunar body. Consult the reliable little book by Galileo Galilei, printed at Venice in 1610 and called Sidereus Nuncius, which describes various observations of the stars first made by him.</quote> </para>   
+    <para id="para5"><quote display="block" id="idm5952736"> Far from the least important of the things seen with this instrument is that Venus receives its light from the Sun as does the Moon, so that sometimes it appears to be more like a crescent, sometimes less, according to its distance from the Sun. At Rome I have observed this, in the presence of others, more than once. Saturn has joined to it two smaller stars, one on the east, the other on the west. Finally Jupiter has four roving stars, which vary their places in a remarkable way both among themselves and with respect to Jupiter--as Galileo Galilei carefully and accurately describes.</quote> </para>   
+    <para id="para6"><quote display="block" id="idm7325520"> Since things are thus, astronomers ought to consider how the celestial orbs may be arranged in order to save these phenomena.</quote> </para>   
+    <para id="para7"> The phases of Venus made the Ptolemaic arrangement of the planets untenable. As Clavius cautiously notes here, an alternative arrangement had to be found. One could modify Ptolemy's scheme and have Mercury and Venus go around the Sun while the Sun and all other bodies go around the Earth. This scheme had already been proposed in Antiquity, but it had never been in the mainstream of astronomy and cosmology because it posited two centers of rotation in the universe. The <link document="m11971">satellites of Jupiter</link> had now shown that no matter what arrangement one preferred, there was more than one center of rotation. There were two other alternatives, the schemes of <link document="m11946">Tycho Brahe</link> and Copernicus (see <link document="m11938">Copernican System</link>). For some time Jesuit astronomers wavered on this issue, but the edict of 1616 settled the matter for them and these astronomers then adopted the scheme of Tycho Brahe. Philosophers and theologians followed more slowly. </para>
+    <para id="para8"> When Clavius wrote the above passage, he was 73 years old, and his health was forcing him to leave active work to his younger colleagues. He died early in 1612.</para>
+  </content>
+
+  <glossary>
+    <definition id="jesu">
+      <term>Jesuits</term>
+      <meaning id="idp474000">- The popular name for the monastic order called the Society of Jesus. The order was founded by Ignatius de Loyola in 1534, and was recognized by the pope in 1540. The mission of the Jesuits was in three areas: teaching, service to the nobility, and missionary work in foreign lands. Their greatest mark was made in education, and the Collegio Romano was their primary seminary.</meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="bal">
+      <bib:book>
+	<bib:author>Baldini, Ugo</bib:author>
+	<bib:title>"Christopher Clavius and the Scientific Scene in Rome" in Gregorian Reform of the Calendar: Proceedings of the Vatican Conference to Commemorate its 400th Anniversary</bib:title>
+	<bib:publisher>Pontifical Academy of Sciences, Specolo Vaticano</bib:publisher>
+	<bib:year>1983</bib:year>
+	<bib:address>Vatican City</bib:address>
+	<bib:note>ed. G. V. Coyne, M. A. Hoskin, and O. Pedersen, pp. 137-170</bib:note>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="hom">
+      <bib:article>
+	<bib:author>Homann, Frederick A.</bib:author>
+	<bib:title>"Christopher Clavius and the Renaissance of Euclidean Geometry"</bib:title>
+	<bib:journal>Archivum Historicum Societatis Jesu</bib:journal>
+	<bib:year>1983</bib:year>
+	<bib:volume>52</bib:volume>
+	<bib:pages>233-246</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="jar">
+      <bib:article>
+	<bib:author>Jardine, Nicholas</bib:author>
+	<bib:title>"The Forging of Modern Realism: Clavius and Kepler against the Skeptics"</bib:title>
+	<bib:journal>Studies in History and Philosophy of Science</bib:journal>
+	<bib:year>1979</bib:year>
+	<bib:volume>10</bib:volume>
+	<bib:pages>141-173</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="lat">
+      <bib:book>
+	<bib:author>Lattis, James M.</bib:author>
+	<bib:title>Between Copernicus and Galileo: Christoph Clavius and the Collapse of Ptolemaic Astronomy</bib:title>
+	<bib:publisher>University of Chicago Press</bib:publisher>
+	<bib:year>1994</bib:year>
+	<bib:address>Chicago</bib:address>
+      </bib:book>
+    </bib:entry>
+  </bib:file>
+  
+</document>

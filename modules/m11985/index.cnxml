@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>William Gilbert</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5251e2aa-ac60-4148-b5ab-47aa6b29a4db</md:uuid>
+</metadata>
+
+  <content>
+
+    <figure id="fig1">
+      
+      <media id="idp6802160" alt=""><image src="../../media/gilbert-t.gif" mime-type="image/gif"/></media>
+      <caption> William Gilbert</caption>
+    </figure>
+
+    <para id="para1">William Gilbert was born in Colchester, England, into a middle class family of some wealth. He entered St. John's College, Cambridge, in 1558 and obtained an B.A. in 1561, an M.A. in 1564, and finally an M.D. in 1569. Upon receiving this last degree, he became a senior fellow of the college, where he held several offices. Gilbert set up a medical practice in London in the 1570s and became a member of the Royal College of Physicians (the body that regulated the practice of medicine in London and vicinity). He held a number of offices in the college and in 1600 was elected president. He never married. </para>  
+    <para id="para2"> Gilbert's <cite><cite-title>De Magnete</cite-title></cite> ("On the Magnet") was published in 1600 and quickly became the standard work throughout Europe on electrical and magnetic phenomena. Europeans were making long voyages across oceans, and the magnetic compass was one of the few instruments that could save them from being hopelessly (and usually fatally) lost. But little was known about the lodestone (magnetic iron ore) or magnetized iron. Gilbert tested many folk tales. Does garlic destroy the magnetic effect of the compass needle? More importantly, he made the first clear distinction between magnetic and the amber effect (static electricity, as we call it). <cite><cite-title>De Magnete</cite-title></cite> is a comprehensive review of what was known about the nature of magnetism, and Gilbert added much knowledge through his own experiments. He likened the polarity of the magnet to the polarity of the Earth and built an entire magnetic philosophy on this analogy. In Gilbert's animistic explanation, magnetism was the soul of the Earth and a perfectly spherical lodestone, when aligned with the Earth's poles, would spin on its axis, just as the Earth spins on its axis in 24 hours. (In traditional cosmology the Earth was fixed and it was the sphere of the fixed stars, carrying the other heavens with it, that rotated in 24 hours.) Gilbert did not, however, express an opinion as to whether this rotating Earth was at the center of the universe or in orbit around the Sun. Since the  <link document="m11938">Copernican cosmology</link> needed a new physics to undergird it, Copernicans such as <link document="m11962">Johannes Kepler</link> and Galileo were very interested in Gilbert's magnetic researches. Galileo's efforts to make a truly powerful armed lodestone for his patrons probably date from his reading of Gilbert's book. </para> 
+    <para id="para3"> Several of Gilbert's unpublished and unfinished works were published in 1651 by his younger half brother under the title <cite><cite-title>De Mundo Nostro Sublunari Philosophia Nova</cite-title></cite> ("New Philosophy about our Sublunary World"). This work had little impact. </para> 
+
+  </content>
+
+  <bib:file>
+    <bib:entry id="gil">
+      <bib:book>
+	<bib:author>Gilbert, William</bib:author>
+	<bib:title>On the Magnet</bib:title>
+	<bib:publisher>Chiswick Press</bib:publisher>
+	<bib:year>1900</bib:year>
+	<bib:address>London</bib:address>
+	<bib:note>Translated by Silvanus P. Thompson.</bib:note>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="kel">
+      <bib:article>
+	<bib:author>Kelly, Suzanne</bib:author>
+	<bib:title>"Gilbert, William"</bib:title>
+	<bib:journal>Dictionary of Scientific Biography</bib:journal>
+	<bib:year/>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+  
+</document>

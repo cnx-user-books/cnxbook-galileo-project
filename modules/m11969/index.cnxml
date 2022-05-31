@@ -1,0 +1,58 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Santorio Santorio</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>094b98ec-9608-4677-a687-9756b4b3afae</md:uuid>
+</metadata>
+
+  <content>
+    <para id="fig1">
+     <figure id="santorio">
+	<media id="idm2746288" alt=""><image src="../../media/santorio.gif" mime-type="image/gif"/></media>
+	<caption>Santorio Santorio </caption>
+      </figure>
+    </para> 
+    <para id="sant1"> Santorio Santorio's father, Antonio Santorio, was a nobleman from Friuli in the service of the Venetian republic; his mother was from a noble family in Justinopolis (now Koper), where Santorio was born. He was educated in Justinopolis and then Venice, and then (1575) entered the University of Padua, where he received his M.D. degree in 1582, at the age of 21.</para>
+    <para id="sant2"> From 1587 to 1599 Santorio spent time in Croatia as the personal physician of a local nobleman. In 1599 he set up a medical practice in Venice. Here he became part of the circle of learned men that included Galileo. In 1611 he was appointed to the chair of theoretical medicine at the University of Padua, and he taught there until his retirement in 1624. He spent the remainder of his life in Venice. </para>
+    <para id="sant3"> Although in treating his patients Santorio did not stray far from Hippocratic and Galenic practice (based on the notion of a balance of the fluids, or "humors"), in his theory and method of investigation he differed from the classical authors a great deal. Rather than relying on authority in the first instance, as so many of his colleagues still did, Santorio argued that one should first rely on sense experience, then on reasoning, and only lastly on authority. His most famous experiments involve the study of bodily weight. He placed himself on a platform suspended from an arm of an enormous balance, and weighed his solid and liquid intake and excretion. He found that by far the greatest part of the food he took in was lost from the body through <emphasis>perspiratio insensibilis</emphasis>, or "insensible perspiration." The little book in which he published these findings, <emphasis>De Statica Medicina</emphasis>, or "Concerning Static Medicine," made him famous throughout Europe.</para>
+    <para id="sant4"> Rather than describing the body and its functions in terms of Aristotelian (and Galenic) elements and qualities, Santorio argued throughout his career that the fundamental properties were mathematical ones, such as number, position, and form. The body was like a clock, the workings of which were determined by the shapes and positions of its interlocking parts. This was a radical break with traditional medical theory and natural philosophy, in which the discourse was about qualities and essences (what is it that makes an apple an apple, or a liver a liver?), and in which mathematical properties such as size and position were considered accidental because they gave no information about the essence of an object. Santorio now made these accidental properties central to his view of nature and medicine. Further, while the central metaphor of Aristotelian natural philosophy and Galenic medicine had been organic, Santorio made it mechanical: the clock (or, more generally, the machine) became the metaphor for nature.</para>
+    <para id="sant5"> His passion for describing phenomena in terms of numbers, led Santorio to invent several instruments, among which a wind gauge, a water current meter, the "pulsilogium," and a thermoscope. The last two of these are also mentioned by Galileo, and, especially in the case of the thermoscope, there has been controversy about who the actual inventor was. We do know that Santorio was the first to apply a numerical scale to the thermoscope, which later evolved into the thermometer. Both the pulsilogium and the thermoscope are perhaps best seen as the product of a learned circle in Venice that included Galileo, Santorio, Giofrancesco Sagredo, and fra <link document="m11967">Paolo Sarpi</link>. </para>
+  </content>
+
+  <bib:file>
+    <bib:entry id="castiglion">
+      <bib:book>
+	<bib:author>Castiglione, Arturo </bib:author>
+	<bib:title> The Life and Work of Santorio Santorio (1561-1636)</bib:title>
+	<bib:publisher>729-785</bib:publisher>
+	<bib:year/>
+	<bib:address>Translared by Emilie Recht. Medical Life, 38(1931)</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="grmek">
+      <bib:article>
+	<bib:author> Grmek, M.D. </bib:author>
+	<bib:title> "Santorio, Santorio" </bib:title>
+	<bib:journal> Dictionary of Scientific Biography</bib:journal>	
+	<bib:year/>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="major">
+      <bib:article>
+	<bib:author> Major, Ralph H. </bib:author>
+	<bib:title> "Santorio Santorio" </bib:title>
+	<bib:journal> Annals of Medical History</bib:journal>	
+	<bib:year>1938 </bib:year>
+	<bib:volume>10</bib:volume>
+	<bib:pages>369-381</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="middleton">
+      <bib:book>
+	<bib:author>Middleton, W.E. Knowles </bib:author>
+	<bib:title> The History of the Thermometer and its use in Meteorology</bib:title>
+	<bib:publisher>Baltimore: John Hopkins University Press, 1966</bib:publisher>
+	<bib:year/>
+      </bib:book>
+    </bib:entry>
+  </bib:file>  
+
+</document>

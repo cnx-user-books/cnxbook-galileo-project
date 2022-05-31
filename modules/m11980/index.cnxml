@@ -1,0 +1,181 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Tides</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1f947bd7-3663-4efd-90d7-11e76bb7c3ba</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">What is the cause of the tides? In the age of Galileo, this question had many answers, from animistic concepts about the "breath" of the earth, to the pre-Newtonian intuition that the moon should have something to do with the sea's motions. But Galileo saw this problem in a different way, connecting it to the whole structure of the <link document="m11938">Copernican universe</link>. In 1597 the Pisan scientist wrote a letter to <link document="m11962">Kepler</link>, saying that he had found in the Copernican doctrine a way to explain many natural phenomena<footnote id="idp5424">Galileo to Kepler, 4 August 1597, Opere, X:68.</footnote>, perhaps (as Kepler supposed, referring to Galileo's letter) even a puzzling one, like that of the tides<footnote id="idp428336">Kepler to Herwart von Hohenberg, 26 March 1598, Gesammelte Werke, XIII:192-93. See also Galileo, Opere, X:72.</footnote>. What, exactly, the Galilean solution to the problem of the tides was, became clear only in 1616, when Galileo was in Rome, trying to convince the Church not to ban the Copernican theory. After this attempt failed, with the consequence that the Copernican position could no longer be held or defended, Galileo wrote his "Discorso sul flusso e il reflusso del mare", in the form of a private letter to Cardinal Orsini<footnote id="idp402704">Opere, V:377-95. For an English translation, see Maurice A. Finocchiaro, The Galileo Affair (Berkeley: University of California Press, 1989), pp. 119-33.</footnote>. </para>  
+    <para id="para2"> In this letter Galileo examines in how many ways the water contained in a vase can move. A first way derives from the slope of the vase, like that of the bed of a river. Secondly, an external cause (such as a strong wind) can produce waves in the water. But there is also a third cause for the water to move: the motion of the vase itself. Indeed, if the vase has an irregular motion (i.e. with accelerations and decelerations), the water also acquires a motion. Galileo makes a comparison between the water and the seas and between the vase and the earth, so that the changes in the motions of the sea can be effects of an irregularity in the earth motion. Galileo's theory is based on the following reasoning: the Copernican earth is affected by two main circular motions, i. e. the annual revolution around the sun and the diurnal rotation. Due to a additive effect of these motions, there is an alteration in the surface speed of the earth, every 12 hours. Referring to the diagram, in which the large circle represents the earth's annual orbit and the small circle the earth itself, Galileo explained his ideas as follows:<quote display="block" id="idm6223008">[W]hile the circle BCDL turns on itself in the direction BCD, there are in its circumference mutually contrary movements: for, while the parts near C go down, the opposite ones near L go up; and while the parts near B move toward the left, the part on the opposite side near D move toward the right. Thus, in a complete rotation the point marked B first moves down and toward the left; when it is near C, it descends the most and begins to move toward the right; at D it no longer goes down, but moves most toward the right and begins to go up; and at L it ascends the most, begins to move slowly toward the left, and goes up till B. Now let us combine the specific motions of the parts of the earth with the general movement by the whole globe through the circumference AFG. We shall find that the absolute motion of the upper part (near B) is always fastest, resulting from the composition of the annual motion along the circumference AF and the specific motion of the part B, which two motions reinforce each other and add up toward the left; on the other hand, the absolute motion of the lower parts near D is always slowest, since the specific motion of D, which here is fastest toward the right, must be subtracted from the annual motion along the circumference AF, which is toward the left. . . . </quote></para> 
+    <para id="para3"> Thus, for 12 hours, a point on the earth's surface will move eastward, in opposition to the global westward movement of the earth, and for 12 hours it will move westward, in the same direction as the annual motion. The composition of these motions causes on one hand a slackening (due to a subtraction of two opposite motions) and on the other hand an acceleration (due to an addition of two motions in the same direction). </para> 
+
+    <figure id="fig1">
+      
+      <media id="idp419056" alt=""><image src="../../media/galileo_tides.gif" mime-type="image/gif"/></media>
+      <caption>Diagram</caption>
+    </figure>
+
+    <para id="para4">With this mechanism, Galileo thought he had found the irregularity in the movement of the vase (the earth), able to move the water (the seas). Although this irregularity is not perceived by us on solid ground, Galileo was sure it was shown by the oceans, by the ebb and flow of the tides. Galileo intended to solve two problems at the same time: the tides are not a mystery any more if we consider them an effect of the earth's motions, and the earth's motions themselves (i.e. the Copernican system) are not absurd any more if we consider the tides a tangible proof of these motions. </para> 
+    <para id="para5"> Such a theory remained in Galileo's mind until 1623, when <link document="m11983">Maffeo Barberini</link>, who was considered a friend and a patron of artists and scientists, became Pope (Urban VIII). Galileo tried to propose again the Copernican question, and obtained the permit to write a dialogue, in which to discuss the arguments for the two main world systems (<link document="m11943">Ptolemaic</link> and <link document="m11938">Copernican</link>), without presenting a final verdict. Galileo worked for almost 10 years at the <cite><cite-title>Dialogue</cite-title></cite>: it is divided in four Days in which Salviati (a Copernican) and Simplicio (an Aristotelian) confront each other; a third character (Sagredo) listens to them, often intervening in favor of Salviati. In the Fourth Day of this masterpiece appears the theory of the tides again, the proof that the earth's motions are not a fiction, that the fluctuations of the sea are effects of mechanical causes and not of a magical attraction between the moon and the water. The earth is a planet: all that happens on it is caused by its own motions, not by the astral influences. This proof, however, presented the final verdict that the Pope did not want the <cite><cite-title>Dialogue</cite-title></cite> to contain: Galileo was brought before the Inquisition and again lost his battle. </para> 
+    <para id="para6"> Many critical questions are involved in this Galileo theory of the tides: first of all the fact that, rejecting any kind of attractive force as the real cause of the tides, this theory was, in Newtonian terms, an error. Nevertheless this judgment has for a long time impeded a historical evaluation of Galileo's theory. Only in some recent essays the question is examined with more care and is judged in the context of the physical and astronomical debate of the seventeenth century. To accuse Galileo of an excess of scientific realism, or even of presumption (as some authors have done), is to lose the possibility of historical reconstruction in which what counts is not the achievement of the future, but the efforts to reach them. Galileo was trying to build a scientific method in a world based more on books than on the nature, more on astrology than on astronomy, more on closing one's eyes than on observing through the telescope. That his theory of the tides did not survive the critical judgment of his successors is not germane to historical inquiry. </para> 
+  </content>
+
+  <bib:file>
+    <bib:entry id="ait">
+      <bib:article>
+	<bib:author>Aiton, Eric J.</bib:author>
+	<bib:title>"Galileo and the Theory of the Tides"</bib:title>
+	<bib:journal>Isis</bib:journal>
+	<bib:year>1965</bib:year>
+	<bib:volume>56</bib:volume>
+	<bib:pages>56-71</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="a">
+      <bib:article>
+	<bib:author>Aiton, Eric J.</bib:author>
+	<bib:title>"Galileo's Theory of the Tides"</bib:title>
+	<bib:journal>Annals of Science</bib:journal>
+	<bib:year>1954</bib:year>
+	<bib:volume>10</bib:volume>
+	<bib:pages>44-57</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="ai">
+      <bib:article>
+	<bib:author>Aiton, Eric J.</bib:author>
+	<bib:title>"On Galileo and the Earth-Moon System"</bib:title>
+	<bib:journal>Isis</bib:journal>
+	<bib:year>1963</bib:year>
+	<bib:volume>54</bib:volume>
+	<bib:pages>265-266</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="bro">
+      <bib:article>
+	<bib:author>Brown, Harold</bib:author>
+	<bib:title>"Galileo, the Elements, and the Tides"</bib:title>
+	<bib:journal>Studies in History and Philosophy of Science</bib:journal>
+	<bib:year>1976</bib:year>
+	<bib:volume>7</bib:volume>
+	<bib:pages>337-351</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="burst">
+      <bib:article>
+	<bib:author>Burstyn, Harold.</bib:author>
+	<bib:title>"Galileo and the Earth-Moon System"</bib:title>
+	<bib:journal>Isis</bib:journal>
+	<bib:year>54</bib:year>
+	<bib:volume>1963</bib:volume>
+	<bib:pages>400-401</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="burs">
+      <bib:article>
+	<bib:author>Burstyn, Harold.</bib:author>
+	<bib:title>"Galileo and the Theory of the Tides"</bib:title>
+	<bib:journal>Isis</bib:journal>
+	<bib:year>1965</bib:year>
+	<bib:volume>56</bib:volume>
+	<bib:pages>61-63</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="bur">
+      <bib:article>
+	<bib:author>Burstyn, Harold.</bib:author>
+	<bib:title>"Galileo's Attempt to Prove that the Earth Moves"</bib:title>
+	<bib:journal>Isis</bib:journal>
+	<bib:year>1962</bib:year>
+	<bib:volume>53</bib:volume>
+	<bib:pages>161-185</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="drake">
+      <bib:book>
+	<bib:author>Drake, Stillman</bib:author>
+	<bib:title>"Galileo's Theory of the Tides." In Galileo Studies: Personality, Tradition, and Revolution, pp. 200-213</bib:title>
+	<bib:publisher>University of Michigan Press</bib:publisher>
+	<bib:year>1970</bib:year>
+	<bib:address>Ann Arbor</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="dra">
+      <bib:article>
+	<bib:author>Drake, Stillman</bib:author>
+	<bib:title>"History of Science and the Tide Theories"</bib:title>
+	<bib:journal>Physics</bib:journal>
+	<bib:year>1979</bib:year>
+	<bib:volume>21</bib:volume>
+	<bib:pages>61-69</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="drak">
+      <bib:book>
+	<bib:author>Drake, Stillman</bib:author>
+	<bib:title>Telescopes, Tides, and Tactics: A Galilean Dialogue about the Starry Messenger and Systems of the World</bib:title>
+	<bib:publisher>University of Chicago Press</bib:publisher>
+	<bib:year>1983</bib:year>
+	<bib:address>Chicago</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="fino">
+      <bib:book>
+	<bib:author>Finocchiaro, Maurice A.</bib:author>
+	<bib:title>Galileo and the Art of Reasoning</bib:title>
+	<bib:publisher>Reidel</bib:publisher>
+	<bib:year>1980</bib:year>
+	<bib:address>Dordrecht</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="fin">
+      <bib:book>
+	<bib:author>Finocchiaro, Maurice A.</bib:author>
+	<bib:title>The Galileo Affair</bib:title>
+	<bib:publisher>University of California Press</bib:publisher>
+	<bib:year>1989</bib:year>
+	<bib:address>Berkeley and LosAngeles</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="jpit">
+      <bib:book>
+	<bib:author>Pitt, Joseph C.</bib:author>
+	<bib:title>"Galileo and Rationality: The Case of the Tides"</bib:title>
+	<bib:publisher>Reidel</bib:publisher>
+	<bib:year>1987</bib:year>
+	<bib:address>Dordrecht, Boston</bib:address>
+	<bib:note>In Rational Change in Science: Eassays on Scientific Reasoning. Edited by Joseph C. Pitt and M. Pera, pp. 235-53</bib:note>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="jpi">
+      <bib:article>
+	<bib:author>Pitt, Joseph C.</bib:author>
+	<bib:title>"Galileo, Copernicus and the Tides"</bib:title>
+	<bib:journal>Theoria et Historia Scientiarum</bib:journal>
+	<bib:year>1991</bib:year>
+	<bib:volume>1</bib:volume>
+	<bib:pages>83-94</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="jpitt">
+      <bib:article>
+	<bib:author>Pitt, Joseph C.</bib:author>
+	<bib:title> "The Untrodden Road: Rationality and Galileo's Theory of the Tides"</bib:title>
+	<bib:journal>Nature and System</bib:journal>
+	<bib:year>1982</bib:year>
+	<bib:volume>4</bib:volume>
+	<bib:pages>87-99</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="shea">
+      <bib:article>
+	<bib:author>Shea, William R.</bib:author>
+	<bib:title>"Galileo's Claim to Fame: The Proof that the Earth Moves from the Evidence of the Tides"</bib:title>
+	<bib:journal>British Journal for the History of Science</bib:journal>
+	<bib:year>1970</bib:year>
+	<bib:volume>5</bib:volume>
+	<bib:pages>111-127</bib:pages>
+      </bib:article>
+    </bib:entry>
+  </bib:file>
+  
+</document>

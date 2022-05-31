@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>On Motion</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>2d668a68-89ff-4fa1-9175-40c70678a173</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">During the time he taught the mathematical subjects at the university of Pisa (1589-1592), Galileo began a book, <cite><cite-title>De motu</cite-title></cite> ("On motion"), which was never published. In it, we can trace the early development of his ideas concerning motion.</para>
+    <para id="para2"> One of the fundamental propositions of Aristotelian philosophy is that there is no effect without a cause. Applied to moving bodies, this proposition dictates that there is no motion without a force. Speed, then is proportional to force and inversely proportional to resistance. This notion is not at all unreasonable if one takes as one's defining case of motion, say, an ox pulling a cart: the cart only moves if the ox pulls, and when the ox stops pulling the cart stops. For falling bodies, the force is the weight pulling down a body and the resistance is that of the medium, air or water. As the science of motion became somewhat more quantitative in the sixteenth century, some people began to investigate the motion of falling bodies more carefully. Galileo was one of these.</para>
+    <para id="para3"> If weight determines the speed of fall, then when two different weights are dropped from a high place the heavier will fall faster and the lighter slower, in proportion to the two weights. A ten pound weight would reach the Earth by the time a one-pound weight had fallen one-tenth as far.</para>
+    <para id="para4"> One approach was to speculate: suppose one connected the two weights with a string, what would be the speed of fall? Suppose one tied them together? In the first case the lighter weight would slow down the heavier one and therefore the time of fall would be greater than that of the heavier weight; in the second case there now was a composite body weighing eleven pounds, whose time of fall would be less than that of the ten-pound weight. Perhaps weight was not the determiner of the speed of fall.</para>
+    <para id="para5"> But there was another approach, one of experience. Why not drop bodies of different weights and see whether Aristotle's prediction was correct. As early as 1544, the historian Benedetto Varchi referred to actual tests, which showed that it was not. In a tract written in 1576, Giuseppe Moletti, Galileo's predecessor in the chair of mathematics at the university of Padua, reported that bodies of the same material but different weight, as well as bodies of the same volume but different material, dropped from a height arrived at the Earth at the same time.</para>
+    <para id="para6"> Galileo's approach to this problem was somewhat different. In <cite><cite-title>De motu</cite-title></cite> he proposed that in free fall bodies dropped with a characteristic uniform speed determined not by their weight but by their specific gravity (not his term). He put this theory to the test by dropping bodies from heights and found that the experiments did not confirm his theory. He states that, in fact, the lighter body (i.e. that of the lower specific gravity) will move ahead of the heavier body at the start of the fall, and that the heavier body then overtakes it and arrives at the bottom slightly earlier.</para>
+    <para id="para7"> Scholars have pointed to such passages to support their argument that Galileo did not perform such experiments and that his references to experiments were only rhetorical devices. After all, we all know that in a vacuum all bodies would fall with the same speed and in a medium such as air the heavier body (assuming the two bodies are of the same shape) will fall slightly faster: at no time will the lighter body be ahead of the heavier one. But when Galileo's supposed experiment was repeated, the results showed that he had described a real experiment. Students dropped spherical balls of wood and iron of equal diameter and the wooden balls invariably moved ahead of the iron balls. The explanation lies in the fact that the heavier iron ball must be clasped in the hand with more force and is therefore released slightly later than the wooden ball.</para>
+    <para id="para8"> Obviously, then, Galileo was performing experiments at the very beginning of his investigations into motion, and he took his experimental results seriously. Over the next two decades he changed his ideas and refined his experiments, and in the end he arrived at the law of falling bodies which states that in a vacuum all bodies, regardless of their weight, shape, or specific gravity, are uniformly accelerated in exactly the same way, and that the distance fallen is proportional to the square of the elapsed time.</para>
+  </content>
+  
+  <bib:file>
+    <bib:entry id="sett">
+      <bib:book>
+	<bib:author> Settle, Thomas B.</bib:author>
+	<bib:title>"Experimental Research and Galilean Mechanics." In Galileo Scientist: His Years at Padua and Venice. Edited by Milla Baldo Ceolin</bib:title>
+	<bib:publisher>Istituto Nazionale di Fisica Nucleare; Istituto Venet o di Scienze, Lettere ed Arti; Dipartimento di Fisica</bib:publisher>
+	<bib:year>1992</bib:year>
+	<bib:address>Padua; Venice</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="set">
+      <bib:book>
+	<bib:author> Settle, Thomas B.</bib:author>
+	<bib:title>"Galileo and Early Experimentation." In Springs of Scientific Creativity: Essays on Founders of Modern Science., Edited by Rutherford Aris, H. Ted Davis, and Roger H. Stuewer</bib:title>
+	<bib:publisher>University of Minnesota Press</bib:publisher>
+	<bib:year>1983</bib:year>
+	<bib:address>Minneapolis</bib:address>
+      </bib:book>
+    </bib:entry>
+  </bib:file>
+
+</document>

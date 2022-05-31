@@ -1,0 +1,76 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Johannes Fabricius</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>916f487b-0b04-4a61-90ae-9258c99dcde5</md:uuid>
+</metadata>
+
+  <content>
+
+    <para id="para1">David Fabricius was a Lutheran pastor and
+    astronomer in the little town of Osteel, East Frisia (northwest
+    Germany). He was a correspondent of <link document="m11962">Johannes Kepler</link> and the discoverer of the
+    first known variable star (1596). Early in 1611, his son Johannes,
+    a university student, returned from the Netherlands with one or
+    more telescopes, and he and his father turned these instruments to
+    the heavens. On 9 March, at dawn, Johannes directed the telescope
+    at the rising sun and saw several dark spots on it. He called his
+    father, and together the two investigated this new
+    phenomenon. They directed their instruments to the edge of the
+    Sun, and when their eyes adjusted to the brightness slowly moved
+    toward the Sun's center. This method was, of course, very painful,
+    and the two quickly switched to the projection method by means of
+    a <term target-id="came">camera obscura</term>. </para> <para id="para2"> Over the next several months they tracked spots as
+    they moved across the Sun's face and found that a dozen or so days
+    after they had disappeared from the western edge of the Sun they
+    reappeared on the eastern edge. Johannes wrote a tract on <link document="m11970">sunspots</link>, <cite><cite-title>De Maculis in Sole
+    Observatis, et Apparente earum cum Sole Conversione
+    Narratio</cite-title></cite> ("Narration on Spots Observed on the Sun and their
+    Apparent Rotation with the Sun"), the dedication of which was
+    dated 13 June 1611. It was printed in Wittenberg (the site of the
+    premier Lutheran university, where Johannes was apparently
+    continuing his studies) in time for the autumn book fair in
+    Frankfurt. In the tract Johannes rehearsed the observations made
+    by him and his father, without giving times or dates or showing a
+    picture of the spots, and then stated his opinion that they were
+    on the Sun and that the Sun therefore probably rotated on its axis
+    (an notion already suggested by <link document="m11935">Giordano
+    Bruno</link> and <link document="m11962">Johannes
+    Kepler</link>.</para> <para id="para3"> Johannes's style was
+    florid, and only a small part of the tract actually dealt with his
+    observations and diffidently stated conclusions. Because of the
+    lack of a powerful patron interested in scientific matters who
+    might have called the little book to the attention of influential
+    people, it drew very little attention, and by the time e.g.,
+    Kepler had become aware of its existence the book was eclipsed by
+    <link document="m12126">Christoph Scheiner's</link> first
+    publication on sunspots (January 1612). Johannes's diffidence may
+    have been caused by a disagreement with his father about the
+    nature of sunspots. In December 1611, David Fabricius wrote to
+    Michael Maestlin (Kepler's old teacher) that he did not believe
+    the spots were on the Sun's body, although the center of their
+    motions clearly lay in the Sun. Neither father nor son were
+    important participants in the 1612/13 debate on the nature of
+    sunspots. </para> <para id="para4"> Little else is known about
+    Johannes Fabricius, except that he died in 1616, at the young age
+    of 29. A year later the father was killed when an irate peasant,
+    whom he had accused of stealing a goose, hit him over the head
+    with a shovel. </para>
+
+  </content>
+  
+  <glossary>
+    <definition id="came">
+      <term>camera obscura</term> <meaning id="idm8497888">- A darkened boxlike device
+      in which images of external objects, received through an
+      aperture, are exhibited in their natural colors on a surface
+      arranged to receive them.</meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="rose">
+      <bib:book>
+	<bib:author>Rosen, Edward</bib:author> <bib:title>Kepler's
+	Somnium</bib:title> <bib:publisher>University of Wisconsin
+	Press</bib:publisher> <bib:year>1967</bib:year>
+	<bib:address>Madison</bib:address> </bib:book> </bib:entry>
+	</bib:file> </document>

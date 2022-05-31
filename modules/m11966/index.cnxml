@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Paolo Antonio Foscarini</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9f628e36-30a9-4209-aa4d-6cad1cc6a0d4</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">Little is known about Foscarini's life. He was born in Montalto Uffugo in Calabria (southern Italy), joined the <term target-id="carm">Carmelite Order</term>, and distinguished himself as a preacher, mathematician, and theologian. He taught philosophy and theology at the university of Messina in Sicily served as the elected provincial of the Carmelite Order in Calabria. He published <cite><cite-title>Ordinationes et Exercitia Quotidiana</cite-title></cite> ("Daily Ordinations and Exercises") in 1607; <cite><cite-title>Institutionum Omnis Generis Doctrinarum Tomis VII Comprehensarum Syntaxis</cite-title></cite> ("Syntaxis of All Types of Doctrines, Contained in Seven Tomes") in 1613; and <cite><cite-title>Tratato della Divinatione Naturale Cosmologica</cite-title></cite> ("Treatise on Natural Cosmological Divination") in 1615. </para> 
+    <para id="para2"> In that year, he turned his attention to the <link document="m11938">Copernican System</link>, and there is some evidence that he and Galileo planned a joined strategy on behalf of heliocentric cosmology. As Galileo wrote his "Letter to the Grand Duchess Christina," Foscarini published in Naples a tract entitled <cite><cite-title>Lettera sopra l'Opinione de' Pittagorici, e del Copernico della Mobilita della Terra, e Stabilita del Sole, e del Nuove Pittagorica Systema del Mondo</cite-title></cite> ("Letter concerning the Opinion of the Pythagoreans and Copernicus about the Mobility of the Earth and Stability of the Sun, and about the New Pythagorean System of the World"), dedicated to the General of the Carmelite Order. In this work, Foscarini defended the Copernican theory as true and defended it against charges that it conflicted with Scripture. With book in hand, Foscarini went to Rome to defend the Copernican theory personally but left Rome before Galileo's arrival there. Shortly afterward, the consultants of the Holy Office made their pronouncement on the Copernican theory, and as a result Foscarini's book was placed on the <link document="m11974">Index of Forbidden Books</link> (3 March 1616). Foscarini died a few months later in a Carmelite monastery he had founded in his native city of Montalto.</para>
+  </content>
+
+  <glossary>
+    <definition id="carm">
+      <term>Carmelite Order</term>
+      <meaning id="idp1069296">- The Brothers of the Blessed Virgin Mary of Mount Carmel is one of the mendicant orders originating on Mount Carmel in Israel.</meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="bla">
+      <bib:book>
+	<bib:author>Blackwell, Richard J.</bib:author>
+	<bib:title>Galileo, Bellarmine, and the Bible</bib:title>
+	<bib:publisher>University of Notre Dame Press</bib:publisher>
+	<bib:year>1991</bib:year>
+	<bib:address>Notre Dame</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="fos">
+      <bib:book>
+	<bib:author>Foscarini, Paolo Antonio</bib:author>
+	<bib:title>New Catholic Encyclopedia</bib:title>
+	<bib:publisher/>
+	<bib:year/>
+      </bib:book>
+    </bib:entry>
+  </bib:file>
+  
+</document>

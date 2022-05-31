@@ -1,0 +1,198 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Galileo and the Pendulum</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d95991a8-060e-47fd-a39d-fcda82387a83</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      <figure id="fig1">
+	<media id="idp2899088" alt=""><image src="../../media/clock.gif" mime-type="image/gif"/></media>
+	<caption>Pendulum Clock</caption>
+      </figure>
+
+      In Aristotelian physics, which was still the predominant way to
+      explain the behavior of bodies near the Earth, a heavy body
+      (that is, one in which the element earth predominated) sought
+      its natural place, the center of the universe. The back and
+      forth motion of a heavy body suspended from a rope was therefore
+      not a phenomenon that could explain or illustrate much. It was
+      outside the paradigm.
+    </para>
+
+    <para id="para2">
+      Galileo was taught Aristotelian physics at the university of
+      Pisa. But he quickly began questioning this approach. Where
+      Aristotle had taken a qualitative and verbal approach, Galileo
+      developed a quantitative and mathematical approach. Where the
+      Aristotelians argued that heavier bodies fell faster than
+      lighter ones in the same medium, Galileo, early in his career,
+      came to believe that the difference in speed depended on the
+      densities of the bodies. Where Aristotelians maintained that in
+      the absence of the resisting force of a medium a body would
+      travel infinitely fast and that a vacuum was therefore
+      impossible, Galileo eventually came to believe that in a vacuum
+      all bodies would fall with the same speed, and that this speed
+      was proportional to the time of fall.
+    </para>
+
+    <para id="para3">
+      Because of his mathematical approach to motion, Galileo was
+      intrigued by the back and forth motion of a suspended
+      weight. His earliest considerations of this phenomenon must be
+      dated to his days before he accepted a teaching position at the
+      university of Pisa. His first biographer, <link document="">Vincenzo Viviani</link>, states that he began his
+      study of pendulums after he watched a suspended lamp swing back
+      and forth in the cathedral of Pisa when he was still a student
+      there. Galileo's first notes on the subject date from 1588, but
+      he did not begin serious investigations until 1602.
+    </para>
+
+    <para id="para4">
+      Galileo's discovery was that the period of swing of a pendulum
+      is independent of its amplitude--the arc of the swing--the <term target-id="isochronism">isochronism</term> of the pendulum.  
+      <footnote id="idm5151712">
+	Strictly speaking, a simple pendulum is not isochronous, the
+	period does vary somewhat with the amplitude of the
+	swing. This was shown by Christiaan Huygens, in the
+	1650s. Huygens installed cycloidal "cheeks" near the
+	suspension point of his pendulums and showed that as a result
+	the bob now described a cycloidal arc. And he proved that when
+	this is the case the pendulum is truly isochronous. In
+	practice, the swing of the bob was kept very small and the
+	amplitude as constant as possible, as in the long-case clock
+	or our familiar grandfather clock. Under these conditions the
+	simple pendulum is isochronous for all practical purposes.
+      </footnote>
+      Now this discovery had important implications for the
+      measurement of time intervals. In 1602 he explained the
+      isochronism of long pendulums in a letter to a friend, and a
+      year later another friend, <link document="">Santorio
+      Santorio</link>, a physician in Venice, began using a short
+      pendulum, which he called "pulsilogium," to measure the pulse of
+      his patients. The study of the pendulum, the first <term target-id="harmonicoscillator">harmonic oscillator</term>, date from
+      this period.
+      <figure id="fig2">
+	<media id="idm5147680" alt=""><image src="../../media/brachistochron.gif" mime-type="image/gif"/></media>
+	<caption>Harmonic Oscillator?</caption>
+      </figure>
+    </para>
+
+    <para id="para5">
+      The motion of the pendulum bob posed interesting problems. What
+      was the fastest motion from a higher to a lower point, along a
+      circular arc like a pendulum bob or along a straight line like
+      on an inclined plane? Does the weight of the bob have an effect
+      on the period? What is the relationship between the length and
+      the period? Throughout his experimental work, the pendulum was
+      never very far from Galileo's thought. But there was also the
+      question of its practical use.
+    </para>
+
+    <para id="para6">
+      A pendulum could be used for timing pulses or acting as a
+      metronome for students of music: its swings measured out equal
+      time intervals. Could the device also be used to improve clocks?
+      The mechanical clock, using a heavy weight to provide the motive
+      power, began displacing the much older water clock in the High
+      Middle Ages. By incremental improvement, the device had become
+      smaller and more reliable. But the accuracy of the best clocks
+      was still so low that they were, for instance, useless for
+      astronomical purposes. Not only did they gain or lose time, but
+      they did so in an irregular and unpredictable manner. Could a
+      pendulum be hooked up to the escape mechanism of a clock so as
+      to regulate it?
+    </para>
+
+    <para id="para7">
+      In 1641, at the age of 77, totally blind, Galileo turned his
+      attention to this problem. <link document="">Vincenzo
+      Viviani</link> describes the events as follows, as translated by
+      <cite target-id="drake1978"><cite-title>Stillman Drake</cite-title></cite>:
+
+      <quote display="block" id="idm6220864">
+	One day in 1641, while I was living with him at his villa in
+	Arcetri, I remember that the idea occurred to him that the
+	pendulum could be adapted to clocks with weights or springs,
+	serving in place of the usual <emphasis>tempo</emphasis>, he
+	hoping that the very even and natural motions of the pendulum
+	would correct all the defects in the art of clocks. But
+	because his being deprived of sight prevented his making
+	drawings and models to the desired effect, and his son
+	Vincenzio coming one day from Florence to Arcetri, Galileo
+	told him his idea and several discussions followed. Finally
+	they decided on the scheme shown in the accompanying drawing,
+	to be put in practice to learn the fact of those difficulties
+	in machines which are usually not foreseen in simple
+	theorizing.
+      </quote>
+
+      <link document="">Viviani</link> wrote this in 1659, seventeen
+      years after Galileo's death and two years after the publication
+      of Christiaan Huygens's <cite><cite-title>Horologium</cite-title></cite>, in which
+      Huygens described his pendulum clock. It is from Huygens's
+      construction that we date the practical development of the
+      device.
+    </para>
+  </content>
+
+  <glossary>
+    <definition id="isochronism">
+      <term>isochronous</term>
+      <meaning id="idp3930688">Equal or uniform in time</meaning>
+    </definition>
+
+    <definition id="harmonicoscillator">
+      <term>harmonic oscillator</term>
+      <meaning id="idp3932560">Each oscillation has a frequency that is an integer multiple of the same basic frequency</meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="drake1978">
+      <bib:book>
+	<bib:author>Stillman Drake</bib:author>
+	<bib:title>Galileo at Work: His Scientific Biography</bib:title>
+	<bib:publisher>University of Chicago Press</bib:publisher>
+	<bib:year>1978</bib:year>
+	<bib:address>Chicago</bib:address>
+	<bib:note>For explanations of how the pendulum figured in Galileo's experiments; quote from p. 419</bib:note>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="bedini1991">
+      <bib:book>
+	<bib:author>Silvio A. Bedini</bib:author>
+	<bib:title>The Pulse of Time: Galileo Galilei, the Determination of Longitude, and the Pendulum Clock</bib:title>
+	<bib:publisher>Olschki</bib:publisher>
+	<bib:year>1991</bib:year>
+	<bib:address>Florence</bib:address>
+	<bib:note>A useful recent treatment</bib:note>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="bedini1967">
+      <bib:book>
+	<bib:author>Silvio A. Bedini</bib:author>
+	<bib:title>Galileo and the Measure of Time</bib:title>
+	<bib:publisher>Olschki</bib:publisher>
+	<bib:year>1967</bib:year>
+	<bib:address>Florence</bib:address>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="settle1992">
+      <bib:incollection>
+	<bib:author>Thomas B. Settle</bib:author>
+	<bib:title>Experimental Research and Galilean Mechanics</bib:title>
+	<bib:booktitle>Galileo Scientist: His Years at Padua and Venice</bib:booktitle>
+	<bib:publisher>Istituto Nazionale di Fisica Nucleare; Istituto Veneto di Scienze, Lettere ed Arti; Dipartimento di Fisica</bib:publisher>
+	<bib:year>1992</bib:year>
+	<bib:editor>Milla Baldo Ceolin</bib:editor>
+	<bib:pages>39-57</bib:pages>
+	<bib:address>Padua; Venice; Padua</bib:address>
+	<bib:note>For explanations of how the pendulum figured in Galileo's experiment</bib:note>
+      </bib:incollection>
+    </bib:entry>
+  </bib:file>
+  
+</document>
